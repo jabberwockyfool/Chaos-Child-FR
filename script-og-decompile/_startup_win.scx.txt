@@ -1,0 +1,120 @@
+All unsaved game progress will be lost.
+Exit Game?
+OK
+Cancel
+All unsaved game progress will be lost.
+Exit Game?
+OK
+Cancel
+[color index="A01B0000"]フラグ・ワークエディタ
+[color index="A01B0000"]ヒント表示
+[color index="A01B0000"]Tips開放
+[color index="A01B0000"]クリアフラグ開放
+[color index="A01B0000"]CGコンプリート
+[color index="A01B0000"]CGランダムオープン
+[color index="A01B0000"]既読全開放
+[color index="A01B0000"]ムービー全開放
+[color index="A01B0000"]シーン既読全開放
+[color index="A01B0000"]MUSIC全開放
+[color index="A01B0000"]セーブデータ初期化
+[color index="A01B0000"]システムデータ初期化
+[color index="A0160000"]戻る
+[color index="850000"]終了
+[color index="A0140000"]Tips開放。
+[color index="A0140000"]クリアフラグ開放。
+[color index="A0140000"]CGコンプリート。
+[color index="A0140000"]CGランダムオープン。
+[color index="A0140000"]既読全開放。
+[color index="A0140000"]ムービー全開放。
+[color index="A0140000"]シーン既読全開放。
+[color index="A0140000"]MUSIC全開放。
+Exit Game?
+OK
+Cancel
+Corrupted TIPS data detected.
+Don’t load
+All unsaved game progress will be lost.
+Return to the Title Menu?
+OK
+Cancel
+All unsaved game progress will be lost.
+Return to the Title Menu?
+OK
+Cancel
+Return to the Title Menu?
+OK
+Cancel
+All unsaved game progress will be lost.
+Exit Game?
+OK
+Cancel
+Leave the scene recollection menu?
+OK
+Cancel
+Return this page to default settings?
+Yes
+No
+The defaults for these settings have been restored.
+Saving System Data.
+Please do not turn off the system.
+Not enough free space to store Save Data.
+Please free up some space on your hard drive to save.
+Load this data?
+Load
+Don’t load
+Load this data?
+All unsaved game progress will be lost.
+OK
+Cancel
+All save files are locked.
+When all save files are locked, you are unable to quick save.
+If you would like to use the quick save feature, please unlock
+the lock on unnecessary save files.
+All save files are locked.
+When all save files are locked, you are unable to quick save.
+If you would like to use the quick save feature, please unlock
+the lock on unnecessary save files.
+Save file already exists.
+If you overwrite this save file, the old data will be lost.
+Overwrite this save file?
+Overwrite
+Cancel
+This save file is locked.
+If you would like to overwrite it, please unlock it.
+The save data is corrupted.
+If you overwrite this save file, the old data will be lost.
+Overwrite this save file?
+Overwrite
+Cancel
+Saving data.
+Saving data. Please do not turn off the system.
+Not enough free space to store save data.
+Please free up some space on your hard drive to save.
+Saving System Data.
+Please do not turn off the system.
+Checking System Data.
+Loading System Data.
+No System Data found.
+System Data will now be created.
+Creating System Data.
+Please do not turn off the system.
+System Data is corrupted.
+System Data will now be repaired.
+Repairing System Data.
+Please do not turn off the system.
+Not enough free space to store Save Data.
+Please free up some space on your hard drive to save.
+This System Data belongs to another user.
+Please exit the game and delete the System Data.
+This System Data belongs to another user.
+Please exit the game and delete the System Data.
+System Data is corrupted.
+Unable to load System Data.
+System Data is corrupted.
+Unable to load System Data.
+Failed to load System Data.
+Please quit the game and try again.
+Failed to load System Data.
+Please quit the game and try again.
+Failed to create System Data.
+Please quit the game and try again.

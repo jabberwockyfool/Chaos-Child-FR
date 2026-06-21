@@ -1,0 +1,40 @@
+
+
+[color index="800000"]
+A [color index="A01F0000"][Hidden Story]
+[color index="800000"]has been unlocked.
+[color index="800000"]The
+[color index="A01F0000"][EXTRA]
+[color index="800000"]option on the title menu
+[color index="800000"]is now available.
+[color index="A01F0000"][HINT]
+[color index="800000"]Use the [[color index="810000"]Delu[color index="820000"]sion [color index="A01F0000"]Triggers[color index="800000"]]
+[color index="800000"]to try different delusions.
+[color index="A01F0000"][Common Route BAD END]
+[color index="A01F0000"][Arimura Hinae BAD END]
+[color index="A01F0000"][Yamazoe Uki BAD END 1]
+[color index="A01F0000"][Yamazoe Uki BAD END 2]
+[color index="A01F0000"][Yamazoe Uki BAD END 3]
+[color index="A01F0000"][Yamazoe Uki BAD END 4]
+[color index="A01F0000"][Kazuki Hana BAD END]
+[color index="A01F0000"][Over Sky End]
+[color index="A01F0000"][Real Sky End]
+[color index="A01F0000"][Dark Sky End]
+[color index="A01F0000"][Dream Sky End]
+[color index="A01F0000"][Another Sky End]
+[color index="A01F0000"][Deep Sky End]
+[color index="A01F0000"][Silent Sky End]
+[color index="810000"][Common Route BAD END]
+[color index="810000"][Arimura Hinae BAD END]
+[color index="810000"][Yamazoe Uki BAD END 1]
+[color index="810000"][Yamazoe Uki BAD END 2]
+[color index="810000"][Yamazoe Uki BAD END 3]
+[color index="810000"][Yamazoe Uki BAD END 4]
+[color index="810000"][Kazuki Hana BAD END]
+[color index="810000"][Over Sky End]
+[color index="810000"][Real Sky End]
+[color index="810000"][Dark Sky End]
+[color index="810000"][Dream Sky End]
+[color index="810000"][Another Sky End]
+[color index="810000"][Deep Sky End]
+[color index="810000"][Silent Sky End]
