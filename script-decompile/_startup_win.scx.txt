@@ -54,7 +54,7 @@ Retour
 Réinitialiser cette page aux paramètres par défauts?
 Oui
 Non
-The defaults for these settings have been restored.
+Les paramètres par défaut ont été rétablis.
 Sauvegarde des données système.
 Veuillez ne pas éteindre le système.
 Pas assez d'espace libre pour sauvegarder.
