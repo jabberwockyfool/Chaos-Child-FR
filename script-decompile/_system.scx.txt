@@ -195,37 +195,37 @@ Non lu
 
 『
 』
-Chapter 1
-Digital Native
-Chapter 2
-Sumo Sticker
-Chapter 3
-School Festival!
-Chapter 4
-Her Words
-Chapter 5
-Gigalomaniacs
-Chapter 6
-Their Resistance I
-Chapter 7
-Their Resistance II
-Chapter 8
-Betrayal
-Chapter 9
+Chapitre 1
+Natif Digital
+Chapitre 2
+Sticker Sumo
+Chapitre 3
+Festival du Lycée!
+Chapitre 4
+Ses Mots
+Chapitre 5
+Gigalomaniaques
+Chapitre 6
+Leur Résistance I
+Chapitre 7
+Leur Résistance II
+Chapitre 8
+Trahison
+Chapitre 9
 Duel
-Chapter 10
+Chapitre 10
 Serika Onoe
-Chapter 11
+Chapitre 11
 Takuru Miyashiro
-Nono Chapter
-Heads or Tails
-Hinae Chapter
-True World
-Uki Chapter
-Butterfly
-Hana Chapter
-Pandemic Call
-Serika Chapter
+Chapitre de Nono
+Pile ou Face
+Chapitre d'Hinae
+Monde Véritable
+Chapitre d'Uki
+Papillon
+Chapitre d'Hana
+Appel Pandémique
+Chapitre de Serika
 Chaos Child
 Opening
 Prologue-1
@@ -237,11 +237,11 @@ Ending
 Ending
 Ending
 Ending
-Track
-Time
-Title
+Piste
+Temps
+Titre
 ??????
-Artists
+Artistes
 ...
 WORLD -C;C MAIN THEME-
 Comp.:Takeshi Abo

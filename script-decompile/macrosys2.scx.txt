@@ -1,51 +1,51 @@
 
 
-Chapter 1. The Right-sider Chases the Cases
-   - Digital Native -
-Chapter 2. The Cases Cry Their Name
-   - Sumo Sticker -
-Chapter 3. Their Side of the Festival’s Tale
-   - School Festival! -
-Chapter 4. Delusory Origin of the Tale’s Other Side
-   - Her Words -
-Chapter 5. Delusory Dwellers of the Looming Outcry
-   - Gigalomaniacs -
-Chapter 6. Resistance of the Looming Past
-   - Their Resistance Ⅰ -
-Chapter 7. In Time for the Eroding Past
-   - Their Resistance Ⅱ -
-Chapter 8. An Entanglement of Erosive Cases
-   - Betrayal -
-Chapter 9. Where Entangled Intentions Gather
+Chapter 1. Le Right-sider à la Poursuite des Affaires
+   - Natif Digital -
+Chapter 2. Les Affaires Pleurent Leurs Noms
+   - Sticker Sumo -
+Chapter 3. Leur Version du Récit du Festival
+   - Festival du Lycée! -
+Chapter 4. L’Origine Désillusoire de l’Autre Côté du Récit
+   - Ses Mots -
+Chapter 5. Les Habitants Désillusoires du Cri Imminent
+   - Gigalomaniaques -
+Chapter 6. La Résistance face au Passé Imminent
+   - Leur Résistance I -
+Chapter 7. À Temps pour le Passé qui s’Effrite
+   - Leur Résistance Ⅱ -
+Chapter 8. Un Entremellement d’Affaires Érodées
+   - Trahison -
+Chapter 9. Là où se Mêlent les Intentions Entremêlées
    - Duel -
-Chapter 10. Her Intentions
+Chapter 10. Ses Intentions
    - Onoe Serika -
-Chapter 11: His Struggle
+Chapter 11: Sa Lutte
    - Miyashiro Takuru -
-A Puzzling Entanglement of Shadows and Light
- - Heads or Tails -
-A Dance to Echoes Past
- - Pandemic Call -
-An Unconscious Erosion of Self-indulgent Kindness
- - Butterfly -
-Within the Eyes that Resist Truth and Lies
- - True World -
-Life on the Right Side of Reality
+Un Emmêlement Énigmatique d'Ombres et de Lumière
+ - Pile ou Face -
+Une Danse aux Échos du Passé
+ - Appel Pandémique -
+Une Érosion Inconsciente d’une Gentillesse Égoïste
+ - Papillon -
+A l'Intérieur des Yeux qui Resistent Vérité et Mensonges
+ - Monde Véritable -
+La Vie de l'Autre Côté de la Réalité
  - Chaos Child -
                      Date : [hardcoded-value index="12"]/[hardcoded-value index="13"]/[hardcoded-value index="11"]
                      Date : [hardcoded-value index="12"]/[hardcoded-value index="13"]/[hardcoded-value index="11"]
  Date : [hardcoded-value index="12"]/[hardcoded-value index="13"]/[hardcoded-value index="11"]
  Date : Jan. [hardcoded-value index="11"]
- Date : Feb. [hardcoded-value index="11"]
+ Date : Fev. [hardcoded-value index="11"]
  Date : Mar. [hardcoded-value index="11"]
- Date : Apr. [hardcoded-value index="11"]
- Date : May. [hardcoded-value index="11"]
- Date : Jun. [hardcoded-value index="11"]
- Date : Jul. [hardcoded-value index="11"]
- Date : Aug. [hardcoded-value index="11"]
+ Date : Avr. [hardcoded-value index="11"]
+ Date : Mai. [hardcoded-value index="11"]
+ Date : Juin. [hardcoded-value index="11"]
+ Date : Juil. [hardcoded-value index="11"]
+ Date : Août. [hardcoded-value index="11"]
  Date : Sept. [hardcoded-value index="11"]
  Date : Oct. [hardcoded-value index="11"]
  Date : Nov. [hardcoded-value index="11"]
- Date : Dec. [hardcoded-value index="11"]
+ Date : Déc. [hardcoded-value index="11"]
 –––––––––––––––––––––––––––––––––
 ––––––––––––––––––––––––––––––––––
