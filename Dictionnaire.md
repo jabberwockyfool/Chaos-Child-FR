@@ -32,4 +32,25 @@
 | Chaos Child Syndrome | Syndrome du Chaos Child |
 | Sumo Sticker | Sticker Sumo |
 | Don't Look | Sans Regard |
-| Audio Bleed | Fuite Audio |
+| Eye Level | Niveau d'oeil |
+| Apocalyptic Sound | Son Apocalyptique |
+| Sang It | Sang It *(nom conservé en anglais)* |
+| Dead Content | Média Mort |
+| Cloud Stockage | Cloud |
+| Cartoon | Cartoon *(nom conservé en anglais)* |
+| Fakers | Fakers *(nom conservé en anglais)* |
+| Scraping | Scraping *(nom conservé en anglais)*|
+| Thumbnail | Miniature |
+| Self-feeding | Auto-Feed |
+| Spark Wars | Spark Wars |
+| It's My Wonderful Life | It's My Wonderful Life |
+| Roll | Roll |
+| Tag | Tag |
+| Niconiya Livestreaming | Stream Niconiya |
+| Niconiya News | Niconiya News |
+| Crazy Bitch | Crazy Bitch |
+| Phantasm | Phantasm |
+| Blood Tune | Blood Tune |
+| Mainstream Media | Média Mainstream |
+| Killsteal | Killsteal |
+| Roll | Roll |
