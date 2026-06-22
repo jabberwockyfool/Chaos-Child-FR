@@ -19,6 +19,12 @@ Ce projet propose une traduction française de **CHAOS;CHILD**, construite à pa
 ## Statut
 Projet en cours.
 
-Traduction - environ 4%
-Script système - 75%
-CG - 0%
+- Traduction - environ 4%
+- Script système - 75%
+- CG - 0%
+
+## Fichiers à traduire (pour traducteurs)
+- bg1.mpk
+- bg2.mpk
+- manual.mpk
+- system.mpk

@@ -1,0 +1,5104 @@
+{
+	"file" : "../src/utils.cpp",
+	"func" : "CleanCache::<lambda_1>::operator ()",
+	"line" : 166,
+	"message" : "cleaning \"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\log\\\\*.json\"",
+	"sec" : 24285,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 544363800
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\config.json\"",
+	"sec" : 24285,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 544375400
+}{
+	"file" : "../src/utils.cpp",
+	"func" : "CleanCache::<lambda_1>::operator ()",
+	"line" : 177,
+	"message" : "cache does not need cleaning (maxsize=10485760, cursize=1059050, maxfiles=100, numfiles=11), exiting",
+	"sec" : 24285,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 544785400
+}{
+	"file" : "../src/command/command.cpp",
+	"func" : "cmd::init_builtin_commands",
+	"line" : 81,
+	"message" : "Populating command map",
+	"sec" : 24285,
+	"section" : "command/init",
+	"severity" : 4,
+	"usec" : 546319800
+}{
+	"file" : "../libaegisub/common/hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Hotkey",
+	"line" : 92,
+	"message" : "Generating hotkeys.",
+	"sec" : 24285,
+	"section" : "hotkey/init",
+	"severity" : 4,
+	"usec" : 546520300
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\hotkey.json\"",
+	"sec" : 24285,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 546540600
+}{
+	"file" : "../libaegisub/common/mru.cpp",
+	"func" : "agi::MRUManager::MRUManager",
+	"line" : 67,
+	"message" : "Loading MRU List",
+	"sec" : 24285,
+	"section" : "agi/mru",
+	"severity" : 4,
+	"usec" : 547300200
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\mru.json\"",
+	"sec" : 24285,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 547325200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass API version: 0x1703020",
+	"sec" : 24285,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 552364300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass source: meson, commit: 0.17.3-74-g4d6e9ef3077fb279cab051cc00b216c5f08efb34",
+	"sec" : 24285,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 552373500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Raster: FreeType 2.13.3",
+	"sec" : 24285,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 552427700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.2.0 (COMPLEX)",
+	"sec" : 24285,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 553154500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Initialized",
+	"sec" : 24285,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 553161300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Using font provider directwrite (with GDI)",
+	"sec" : 24285,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 554437100
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 99,
+	"message" : "Entering FrameMain constructor",
+	"sec" : 24286,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 556770100
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 110,
+	"message" : "Initializing context controls",
+	"sec" : 24286,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 556789600
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 117,
+	"message" : "Initializing context frames",
+	"sec" : 24286,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 556797800
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 121,
+	"message" : "Apply saved Maximized state",
+	"sec" : 24286,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 556799100
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 124,
+	"message" : "Initialize toolbar",
+	"sec" : 24286,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 556800600
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 129,
+	"message" : "Initialize menu bar",
+	"sec" : 24286,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 638289300
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 132,
+	"message" : "Create status bar",
+	"sec" : 24286,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 649903400
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 135,
+	"message" : "Set icon",
+	"sec" : 24286,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 652021000
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 144,
+	"message" : "Create views and inner main window controls",
+	"sec" : 24286,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 652371600
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 184,
+	"message" : "Create background panel",
+	"sec" : 24286,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 652380800
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 187,
+	"message" : "Create subtitles grid",
+	"sec" : 24286,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 652881000
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 190,
+	"message" : "Create video box",
+	"sec" : 24286,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 658058100
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 193,
+	"message" : "Create audio box",
+	"sec" : 24286,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 978569800
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 196,
+	"message" : "Create subtitle editing box",
+	"sec" : 24287,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 22184200
+}{
+	"file" : "../src/spellchecker_hunspell.cpp",
+	"func" : "HunspellSpellChecker::OnLanguageChanged",
+	"line" : 190,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\dictionaries\\\\en_US.dic\"",
+	"sec" : 24287,
+	"section" : "dictionary/file",
+	"severity" : 3,
+	"usec" : 107797300
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\dictionaries\\\\user_en_US.dic\"",
+	"sec" : 24287,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 134604200
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 199,
+	"message" : "Arrange main sizers",
+	"sec" : 24287,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 177294700
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 212,
+	"message" : "Perform layout",
+	"sec" : 24287,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 179462800
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 214,
+	"message" : "Leaving InitContents",
+	"sec" : 24287,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 194053000
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 148,
+	"message" : "Set up drag/drop target",
+	"sec" : 24287,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 194073500
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 151,
+	"message" : "Load default file",
+	"sec" : 24287,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 194551900
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\catalog\\\\Default.sty\"",
+	"sec" : 24287,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 194671500
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 154,
+	"message" : "Display main window",
+	"sec" : 24287,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 202318900
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 159,
+	"message" : "Leaving FrameMain constructor",
+	"sec" : 24287,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 273588700
+}{
+	"file" : "../src/utils.cpp",
+	"func" : "CleanCache::<lambda_1>::operator ()",
+	"line" : 166,
+	"message" : "cleaning \"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\autosave\\\\*.AUTOSAVE.ass\"",
+	"sec" : 24287,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 273653900
+}{
+	"file" : "../src/utils.cpp",
+	"func" : "CleanCache::<lambda_1>::operator ()",
+	"line" : 177,
+	"message" : "cache does not need cleaning (maxsize=104857600, cursize=843202, maxfiles=1000, numfiles=16), exiting",
+	"sec" : 24287,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 274095200
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\languagebarrier\\\\subs\\\\lq_movie_op.bk2.ass\"",
+	"sec" : 24292,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 618789200
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\languagebarrier\\\\subs\\\\lq_movie_op.bk2.ass\"",
+	"sec" : 24292,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 619049300
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\catalog\\\\Default.sty\"",
+	"sec" : 24296,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 284856200
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 43,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\catalog\\\\Default.sty\"",
+	"sec" : 24296,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 285549700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass API version: 0x1703020",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 732285100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass source: meson, commit: 0.17.3-74-g4d6e9ef3077fb279cab051cc00b216c5f08efb34",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 732299600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Raster: FreeType 2.13.3",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 732315700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89191B0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 732318100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89191B0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 732329700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 732334600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 732345400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.2.0 (COMPLEX)",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 732971100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Initialized",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 732977800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Using font provider directwrite (with GDI)",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 734024700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (Arial, 400, 0) -> ArialMT, 0, ArialMT",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 994078200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8917F20] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 995501200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8917F20] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 995517600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 995522800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 995532400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89195A0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 995822700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89195A0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 995836500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 995840300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 995847600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8917E00] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 996036400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8917E00] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 996049000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 996052400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 996059300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Glyph 0x65E5 not found, selecting one more font for (Arial, 400, 0)",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 996071500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (Arial, 400, 0) -> YuGothicUI-Semibold, 2, YuGothicUI-Semibold",
+	"sec" : 24297,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 997102100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F15A4100] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24298,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 60256500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F15A4100] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24298,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 60278600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24298,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 60283900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24298,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 60295000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159C740] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24300,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 401503100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159C740] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24300,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 401521200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24300,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 401526300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24300,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 401537400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159C080] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24300,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 402986800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159C080] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24300,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 403000600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24300,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 403005800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24300,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 403013900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass API version: 0x1703020",
+	"sec" : 24304,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 235812800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass source: meson, commit: 0.17.3-74-g4d6e9ef3077fb279cab051cc00b216c5f08efb34",
+	"sec" : 24304,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 235832200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Raster: FreeType 2.13.3",
+	"sec" : 24304,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 235846900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.2.0 (COMPLEX)",
+	"sec" : 24304,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 236546000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Initialized",
+	"sec" : 24304,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 236553500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Using font provider directwrite (with GDI)",
+	"sec" : 24304,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 237583700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159D1F0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24304,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 237685500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159D1F0] Style: Default,8514oem,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24304,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 237697700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24304,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 237702800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24304,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 237713000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (8514oem, 400, 0) -> ArialMT, 0, ArialMT",
+	"sec" : 24304,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 243630600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Glyph 0x65E5 not found, selecting one more font for (8514oem, 400, 0)",
+	"sec" : 24304,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 243688400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (8514oem, 400, 0) -> YuGothicUI-Semibold, 2, YuGothicUI-Semibold",
+	"sec" : 24304,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 244540600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159D1F0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24305,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 281963800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159D1F0] Style: Default,8514oem,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24305,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 281982400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24305,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 281988100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24305,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 281998800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159D1F0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24306,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 686954900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159D1F0] Style: Default,8514oem,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24306,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 686973700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24306,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 686979300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24306,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 686989800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159D1F0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24310,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 39624200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159D1F0] Style: Default,8514oem,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24310,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 39642300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24310,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 39647700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24310,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 39657400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159D1F0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24311,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 825706200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159D1F0] Style: Default,8514oem,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24311,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 825724700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24311,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 825730800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24311,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 825741100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159D1F0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24313,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 11343100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159D1F0] Style: Default,8514oem,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24313,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 11362400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24313,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 11367700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24313,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 11378200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159D1F0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24313,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 12864700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159D1F0] Style: Default,8514oem,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24313,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 12878900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24313,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 12883800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24313,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 12892400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass API version: 0x1703020",
+	"sec" : 24322,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 244344300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass source: meson, commit: 0.17.3-74-g4d6e9ef3077fb279cab051cc00b216c5f08efb34",
+	"sec" : 24322,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 244382600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Raster: FreeType 2.13.3",
+	"sec" : 24322,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 244397500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.2.0 (COMPLEX)",
+	"sec" : 24322,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 245266300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Initialized",
+	"sec" : 24322,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 245273700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Using font provider directwrite (with GDI)",
+	"sec" : 24322,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 246483800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159C590] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24322,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 246640900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159C590] Style: Default,IM FELL English,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24322,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 246653000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24322,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 246659000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24322,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 246669300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (IM FELL English, 400, 0) -> IM_FELL_English_Roman, 0, IM_FELL_English_Roman",
+	"sec" : 24322,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 249148100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Glyph 0x65E5 not found, selecting one more font for (IM FELL English, 400, 0)",
+	"sec" : 24322,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 249193000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (IM FELL English, 400, 0) -> YuGothicUI-Semibold, 2, YuGothicUI-Semibold",
+	"sec" : 24322,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 250163100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159C590] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24326,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 352381000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159C590] Style: Default,IM FELL English,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24326,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 352399300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24326,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 352405100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24326,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 352415200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass API version: 0x1703020",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 287105100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass source: meson, commit: 0.17.3-74-g4d6e9ef3077fb279cab051cc00b216c5f08efb34",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 287120100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159E090] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 287121200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F159E090] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 287130800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 287136100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Raster: FreeType 2.13.3",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 287139200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 287154600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.2.0 (COMPLEX)",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 288073900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Initialized",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 288081300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Using font provider directwrite (with GDI)",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 289238500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (Arial, 400, 0) -> ArialMT, 0, ArialMT",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 552041000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F15A4C40] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 553273600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F15A4C40] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 553289400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 553294600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 553304800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass API version: 0x1703020",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 554841300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass source: meson, commit: 0.17.3-74-g4d6e9ef3077fb279cab051cc00b216c5f08efb34",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 554852100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Raster: FreeType 2.13.3",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 554865000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.2.0 (COMPLEX)",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 555781300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Initialized",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 555788000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Using font provider directwrite (with GDI)",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 556807900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F15A5540] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 556881500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F15A5540] Style: Default,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 556892700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 556897700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 556906700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (hultog, 700, 0) -> Arial-BoldMT, 0, Arial-BoldMT",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 562545300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F15A4610] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 564007500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F15A4610] Style: Default,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 564024500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 564029700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 564038500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Glyph 0x65E5 not found, selecting one more font for (hultog, 700, 0)",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 564047100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (hultog, 700, 0) -> YuGothicUI-Semibold, 2, YuGothicUI-Semibold",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 564922900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8851220] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 629251800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8851220] Style: Default,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 629275700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 629280900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24329,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 629292100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8918310] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24330,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 726360900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8918310] Style: Default,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24330,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 726379400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24330,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 726384600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24330,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 726395300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8918DC0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24335,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 679603100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8918DC0] Style: Default,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24335,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 679620900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24335,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 679626100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24335,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 679636400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8918790] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24335,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 681067600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8918790] Style: Default,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24335,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 681081900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24335,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 681086100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24335,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 681093700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass API version: 0x1703020",
+	"sec" : 24348,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 636881000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass source: meson, commit: 0.17.3-74-g4d6e9ef3077fb279cab051cc00b216c5f08efb34",
+	"sec" : 24348,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 636900600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Raster: FreeType 2.13.3",
+	"sec" : 24348,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 636915700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.2.0 (COMPLEX)",
+	"sec" : 24348,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 637588200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Initialized",
+	"sec" : 24348,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 637594800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Using font provider directwrite (with GDI)",
+	"sec" : 24348,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 638645900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8918790] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24348,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 638765400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8918790] Style: Default,IM FELL English,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24348,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 638777400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24348,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 638783000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24348,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 638792500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (IM FELL English, 700, 0) -> IM_FELL_English_Roman, 0, IM_FELL_English_Roman",
+	"sec" : 24348,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 641108300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Glyph 0x65E5 not found, selecting one more font for (IM FELL English, 700, 0)",
+	"sec" : 24348,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 641152700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (IM FELL English, 700, 0) -> YuGothicUI-Semibold, 2, YuGothicUI-Semibold",
+	"sec" : 24348,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 642117100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8851190] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24350,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104412500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8851190] Style: Default,IM FELL English,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24350,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104430800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24350,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104436800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24350,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104447500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A88524B0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24351,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 622444600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A88524B0] Style: Default,IM FELL English,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24351,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 622468000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24351,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 622478100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24351,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 622490100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8851E80] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24351,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 986687500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8851E80] Style: Default,IM FELL English,49,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24351,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 986705800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24351,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 986711700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24351,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 986722600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F15A4610] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24352,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 264916100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F15A4610] Style: Default,IM FELL English,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24352,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 264933400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24352,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 264939400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24352,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 264950400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F15A5F60] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24352,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 438702900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F15A5F60] Style: Default,IM FELL English,47,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24352,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 438721300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24352,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 438727200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24352,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 438738000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89DFF20] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24352,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 566402100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89DFF20] Style: Default,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24352,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 566419600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24352,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 566426000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24352,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 566437200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89DF590] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24352,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 708998300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89DF590] Style: Default,IM FELL English,45,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24352,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 709016300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24352,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 709022500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24352,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 709032600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89DF590] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24353,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 285029400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89DF590] Style: Default,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24353,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 285047700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24353,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 285053500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24353,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 285064800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89DF590] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24356,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 612966100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89DF590] Style: Default,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24356,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 612985500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24356,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 612991300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24356,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 613002300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89DF590] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24356,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 705443300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89DF590] Style: Default,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24356,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 705460700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24356,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 705468400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24356,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 705479300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89DF590] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24357,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 432545300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89DF590] Style: Default,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24357,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 432563100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24357,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 432569500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24357,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 432579400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass API version: 0x1703020",
+	"sec" : 24360,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 742863000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass source: meson, commit: 0.17.3-74-g4d6e9ef3077fb279cab051cc00b216c5f08efb34",
+	"sec" : 24360,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 742877900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Raster: FreeType 2.13.3",
+	"sec" : 24360,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 742911500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89E37F0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24360,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 742944500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89E37F0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24360,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 742955700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24360,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 742961000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24360,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 742971900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.2.0 (COMPLEX)",
+	"sec" : 24360,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 743552100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Initialized",
+	"sec" : 24360,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 743559200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Using font provider directwrite (with GDI)",
+	"sec" : 24360,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 744841100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (Arial, 400, 0) -> ArialMT, 0, ArialMT",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 6710800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89E2560] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 8000800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89E2560] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 8017000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 8022200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 8031800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass API version: 0x1703020",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 9566200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass source: meson, commit: 0.17.3-74-g4d6e9ef3077fb279cab051cc00b216c5f08efb34",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 9577000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Raster: FreeType 2.13.3",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 9589300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.2.0 (COMPLEX)",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 10309000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Initialized",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 10315700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Using font provider directwrite (with GDI)",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 11379700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89E2C20] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 11453500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89E2C20] Style: Default,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 11465700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 11471400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 11479900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (IM FELL English, 700, 0) -> IM_FELL_English_Roman, 0, IM_FELL_English_Roman",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 13759000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89E23B0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 15304200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89E23B0] Style: Default,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 15320500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 15328500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 15340200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Glyph 0x65E5 not found, selecting one more font for (IM FELL English, 700, 0)",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 15351000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (IM FELL English, 700, 0) -> YuGothicUI-Semibold, 2, YuGothicUI-Semibold",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 16466900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89E23B0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 80182700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A89E23B0] Style: Default,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 80210200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 80219500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 24361,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 80236200
+}{
+	"file" : "../libaegisub/common/hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Ctrl-A  Context: Subtitle Grid  Command: subtitle/select/all",
+	"sec" : 24371,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 488842700
+}{
+	"file" : "../libaegisub/common/hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-S  Context (req/found): Subtitle Grid/Default   Command: subtitle/save",
+	"sec" : 24374,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 257109200
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 43,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\languagebarrier\\\\subs\\\\lq_movie_op.bk2.ass\"",
+	"sec" : 24374,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 257892500
+}{
+	"file" : "../libaegisub/common/hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-S  Context (req/found): Subtitle Edit Box/Default   Command: subtitle/save",
+	"sec" : 24392,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 881103300
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 43,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\languagebarrier\\\\subs\\\\lq_movie_op.bk2.ass\"",
+	"sec" : 24392,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 881176600
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\languagebarrier\\\\subs\\\\movie_op_tlonly.ass\"",
+	"sec" : 25221,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 765302400
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\languagebarrier\\\\subs\\\\movie_op_tlonly.ass\"",
+	"sec" : 25221,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 765609700
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 43,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\mru.json\"",
+	"sec" : 25221,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 766457100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass API version: 0x1703020",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 572214600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass source: meson, commit: 0.17.3-74-g4d6e9ef3077fb279cab051cc00b216c5f08efb34",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 572243000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Raster: FreeType 2.13.3",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 572285800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.2.0 (COMPLEX)",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 573276500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Initialized",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 573288800
+}{
+	"file" : "../src/video_provider_manager.cpp",
+	"func" : "VideoProviderFactory::GetProvider",
+	"line" : 71,
+	"message" : "Dummy: opened \"?dummy:23.976000:40000:640:480:47:163:254:\"",
+	"sec" : 25223,
+	"section" : "manager/video/provider",
+	"severity" : 3,
+	"usec" : 573604900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Using font provider directwrite (with GDI)",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 574636000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14359B0] Style: romaji2-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,4,25,25,25,1",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 651453300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14359B0] Style: romaji useless-furigana,Times New Roman,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,2,0,1,1,1,7,25,25,25,1",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 651470900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14359B0] Style: translation-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,1,25,25,25,1",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 651476700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14359B0] Style: romaji-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,4,25,25,25,1",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 651480700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14359B0] Style: Kanji-furigana,瀬戸フォント,16.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,6,0,1,1,1,6,25,25,25,1",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 651484200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14359B0] Style: Default-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 655948500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14359B0] Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 655969900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14359B0] Style: Kanji,装甲明朝,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,7,0,1,2,2,6,25,25,25,1",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 655974600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14359B0] Style: translation,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,1,25,25,25,1",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 655980600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14359B0] Style: romaji useless,Times New Roman,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,2,0,1,2,2,7,25,25,25,1",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 655984500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14359B0] Style: romaji,Hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,4,25,25,25,1",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 655988100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14359B0] Style: romaji2,Ahellya,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,4,25,25,25,1",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 655991700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 655995700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (13 styles, 1 events)",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 656007900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (hultog, 700, 0) -> Arial-BoldMT, 0, Arial-BoldMT",
+	"sec" : 25223,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 664061600
+}{
+	"file" : "../src/video_out_gl.cpp",
+	"func" : "VideoOutGL::InitTextures",
+	"line" : 112,
+	"message" : "Video size: 640x480",
+	"sec" : 25223,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 726053500
+}{
+	"file" : "../src/video_out_gl.cpp",
+	"func" : "TestTexture",
+	"line" : 74,
+	"message" : "VideoOutGL::TestTexture: 64x64",
+	"sec" : 25223,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 730012500
+}{
+	"file" : "../src/video_out_gl.cpp",
+	"func" : "TestTexture",
+	"line" : 74,
+	"message" : "VideoOutGL::TestTexture: 32768x32768",
+	"sec" : 25223,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 730087300
+}{
+	"file" : "../src/video_out_gl.cpp",
+	"func" : "VideoOutGL::DetectOpenGLCapabilities",
+	"line" : 92,
+	"message" : "Maximum texture size is 32768x32768",
+	"sec" : 25223,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 730100200
+}{
+	"file" : "../src/video_out_gl.cpp",
+	"func" : "TestTexture",
+	"line" : 74,
+	"message" : "VideoOutGL::TestTexture: 32768x16384",
+	"sec" : 25223,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 730115900
+}{
+	"file" : "../src/video_out_gl.cpp",
+	"func" : "VideoOutGL::InitTextures",
+	"line" : 243,
+	"message" : "Using texture size: 1024x512",
+	"sec" : 25223,
+	"section" : "video/out/gl",
+	"severity" : 3,
+	"usec" : 734863400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1C43BC0] Style: romaji2-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,4,25,25,25,1",
+	"sec" : 25226,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 24620700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1C43BC0] Style: romaji useless-furigana,Times New Roman,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,2,0,1,1,1,7,25,25,25,1",
+	"sec" : 25226,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 24649000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1C43BC0] Style: translation-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,1,25,25,25,1",
+	"sec" : 25226,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 24656800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1C43BC0] Style: romaji-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,4,25,25,25,1",
+	"sec" : 25226,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 24665000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1C43BC0] Style: Kanji-furigana,瀬戸フォント,16.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,6,0,1,1,1,6,25,25,25,1",
+	"sec" : 25226,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 24670400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1C43BC0] Style: Default-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1",
+	"sec" : 25226,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 24677200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1C43BC0] Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25226,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 24683700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1C43BC0] Style: Kanji,装甲明朝,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,7,0,1,2,2,6,25,25,25,1",
+	"sec" : 25226,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 24689400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1C43BC0] Style: translation,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,1,25,25,25,1",
+	"sec" : 25226,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 24695600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1C43BC0] Style: romaji useless,Times New Roman,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,2,0,1,2,2,7,25,25,25,1",
+	"sec" : 25226,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 24701500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1C43BC0] Style: romaji,Hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,4,25,25,25,1",
+	"sec" : 25226,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 24707700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1C43BC0] Style: romaji2,Ahellya,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,4,25,25,25,1",
+	"sec" : 25226,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 24715800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25226,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 24723100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (13 styles, 13 events)",
+	"sec" : 25226,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 24781200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass API version: 0x1703020",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 591060100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass source: meson, commit: 0.17.3-74-g4d6e9ef3077fb279cab051cc00b216c5f08efb34",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 591075500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F226F920] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 591075500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F226F920] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 591085400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 591090700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Raster: FreeType 2.13.3",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 591096200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 591102200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.2.0 (COMPLEX)",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 591754600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Initialized",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 591761300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Using font provider directwrite (with GDI)",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 592173800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (Arial, 400, 0) -> ArialMT, 0, ArialMT",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 846455000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F226F380] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 847709900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F226F380] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 847726200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 847732500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 847742200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass API version: 0x1703020",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 848720400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass source: meson, commit: 0.17.3-74-g4d6e9ef3077fb279cab051cc00b216c5f08efb34",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 848732800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Raster: FreeType 2.13.3",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 848745300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.2.0 (COMPLEX)",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 849194700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Initialized",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 849201600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Using font provider directwrite (with GDI)",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 849539200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F226F2F0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 849590400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F226F2F0] Style: Default,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 849600800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 849605500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 849613800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (hultog, 700, 0) -> Arial-BoldMT, 0, Arial-BoldMT",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 853304800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B28722ECB0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 854459600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B28722ECB0] Style: Default,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 854475400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 854480800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 854491000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Glyph 0x65E5 not found, selecting one more font for (hultog, 700, 0)",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 854499600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (hultog, 700, 0) -> YuGothicUI-Semibold, 2, YuGothicUI-Semibold",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 855663800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B28722ECB0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 931825900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B28722ECB0] Style: Default,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 931849200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 931854700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25236,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 931867600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2872B2E00] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25237,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 979860300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2872B2E00] Style: Default,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25237,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 979879900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25237,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 979885400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25237,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 979896400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2872B3820] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25243,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 245899500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2872B3820] Style: Default,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25243,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 245918600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25243,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 245923700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25243,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 245934400
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\catalog\\\\Default.sty\"",
+	"sec" : 25245,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 882947900
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 43,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\catalog\\\\Default.sty\"",
+	"sec" : 25245,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 883833800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass API version: 0x1703020",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 662311100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass source: meson, commit: 0.17.3-74-g4d6e9ef3077fb279cab051cc00b216c5f08efb34",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 662326000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F15945D0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 662335500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Raster: FreeType 2.13.3",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 662346600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F15945D0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 662351300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 662356800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 662368900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.2.0 (COMPLEX)",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 662926900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Initialized",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 662933800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Using font provider directwrite (with GDI)",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 663274300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (Arial, 400, 0) -> ArialMT, 0, ArialMT",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 917906900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B28722D1A0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 919186100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B28722D1A0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,5,0,0,0,1",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 919202900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 919210000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 919220000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass API version: 0x1703020",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 920329900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass source: meson, commit: 0.17.3-74-g4d6e9ef3077fb279cab051cc00b216c5f08efb34",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 920340500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Raster: FreeType 2.13.3",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 920353600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.2.0 (COMPLEX)",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 920928600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Initialized",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 920935500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Using font provider directwrite (with GDI)",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 921288800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B28722D1A0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 921353600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B28722D1A0] Style: Default,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 921364400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 921368600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 921380600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (hultog, 700, 0) -> Arial-BoldMT, 0, Arial-BoldMT",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 925051600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B28722D110] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 926211000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B28722D110] Style: Default,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 926225500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 926230900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 926239700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Glyph 0x65E5 not found, selecting one more font for (hultog, 700, 0)",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 926248700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (hultog, 700, 0) -> YuGothicUI-Semibold, 2, YuGothicUI-Semibold",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 926777700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B287427520] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 999713400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B287427520] Style: Default,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 999735700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 999741400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25248,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 999753300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B28722C930] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25249,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 941897800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B28722C930] Style: Default,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25249,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 941916500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25249,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 941921800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25249,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 941932300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B28722C540] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25253,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 731167900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B28722C540] Style: Default,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25253,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 731186000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25253,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 731191300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25253,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 731201400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass API version: 0x1703020",
+	"sec" : 25257,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 983683100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass source: meson, commit: 0.17.3-74-g4d6e9ef3077fb279cab051cc00b216c5f08efb34",
+	"sec" : 25257,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 983703600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Raster: FreeType 2.13.3",
+	"sec" : 25257,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 983722000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.2.0 (COMPLEX)",
+	"sec" : 25257,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 984476500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Initialized",
+	"sec" : 25257,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 984484700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Using font provider directwrite (with GDI)",
+	"sec" : 25257,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 984826600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B28722CED0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25257,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 984921000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B28722CED0] Style: Default,IM FELL English,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25257,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 984932400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25257,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 984938200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25257,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 984949100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (IM FELL English, 700, 0) -> IM_FELL_English_Roman, 0, IM_FELL_English_Roman",
+	"sec" : 25257,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 986550600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Glyph 0x65E5 not found, selecting one more font for (IM FELL English, 700, 0)",
+	"sec" : 25257,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 986595500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (IM FELL English, 700, 0) -> YuGothicUI-Semibold, 2, YuGothicUI-Semibold",
+	"sec" : 25257,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 987078500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2874268C0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25260,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 839931600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2874268C0] Style: Default,IM FELL English,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25260,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 839950700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25260,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 839956500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25260,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 839966600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2874268C0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25260,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 844308200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2874268C0] Style: Default,IM FELL English,49,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25260,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 844325100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25260,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 844330900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25260,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 844340700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2870A2550] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25260,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 985341900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2870A2550] Style: Default,IM FELL English,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25260,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 985361800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25260,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 985367800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25260,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 985379300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8AA4E50] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25261,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 102840500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8AA4E50] Style: Default,IM FELL English,47,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25261,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 102859200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25261,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 102865200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25261,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 102876200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8AA4E50] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25261,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 223764000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2A8AA4E50] Style: Default,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25261,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 223781900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25261,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 223787600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25261,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 223798200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B287456710] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25264,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 123278500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B287456710] Style: Default,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25264,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 123296400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25264,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 123302400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25264,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 123313100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2874564D0] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 610155800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2874564D0] Style: Default,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 610174300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 610179900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 610190500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B287455D80] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764751000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B287455D80] Style: Default,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764767700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764774100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764786700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0FAA0] Style: romaji2-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,4,25,25,25,1",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764828900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0FAA0] Style: romaji useless-furigana,Times New Roman,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,2,0,1,1,1,7,25,25,25,1",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764837600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0FAA0] Style: translation-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,1,25,25,25,1",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764843200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0FAA0] Style: romaji-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,4,25,25,25,1",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764847600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0FAA0] Style: Kanji-furigana,瀬戸フォント,16.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,6,0,1,1,1,6,25,25,25,1",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764851000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0FAA0] Style: Default-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764855000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0FAA0] Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764858900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0FAA0] Style: Kanji,装甲明朝,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,7,0,1,2,2,6,25,25,25,1",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764862600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0FAA0] Style: translation,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,1,25,25,25,1",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764867900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0FAA0] Style: romaji useless,Times New Roman,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,2,0,1,2,2,7,25,25,25,1",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764871100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0FAA0] Style: romaji,Hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,4,25,25,25,1",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764874300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0FAA0] Style: romaji2,Ahellya,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,4,25,25,25,1",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764877600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0FAA0] Style: translation FR,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,1,25,25,25,1",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764880600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764883900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (14 styles, 1 events)",
+	"sec" : 25265,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 764891000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B287456170] Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 408145300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B287456170] Style: Default,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,5,0,0,0,1",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 408164100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 408170500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (3 styles, 2 events)",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 408180800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0EDB0] Style: romaji2-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,4,25,25,25,1",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 516951100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0EDB0] Style: romaji useless-furigana,Times New Roman,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,2,0,1,1,1,7,25,25,25,1",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 516967700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0EDB0] Style: translation-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,1,25,25,25,1",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 516973500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0EDB0] Style: romaji-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,4,25,25,25,1",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 516977300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0EDB0] Style: Kanji-furigana,瀬戸フォント,16.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,6,0,1,1,1,6,25,25,25,1",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 516980400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0EDB0] Style: Default-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 516984200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0EDB0] Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 516987500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0EDB0] Style: Kanji,装甲明朝,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,7,0,1,2,2,6,25,25,25,1",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 516990700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0EDB0] Style: translation,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,1,25,25,25,1",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 516993900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0EDB0] Style: romaji useless,Times New Roman,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,2,0,1,2,2,7,25,25,25,1",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 516997000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0EDB0] Style: romaji,Hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,4,25,25,25,1",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 517000100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0EDB0] Style: romaji2,Ahellya,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,4,25,25,25,1",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 517003200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0EDB0] Style: translation FR,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,1,25,25,25,1",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 517006300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 517009600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (14 styles, 1 events)",
+	"sec" : 25266,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 517017900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0F3E0] Style: romaji2-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,4,25,25,25,1",
+	"sec" : 25271,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104107400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0F3E0] Style: romaji useless-furigana,Times New Roman,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,2,0,1,1,1,7,25,25,25,1",
+	"sec" : 25271,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104124100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0F3E0] Style: translation-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,1,25,25,25,1",
+	"sec" : 25271,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104129400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0F3E0] Style: romaji-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,4,25,25,25,1",
+	"sec" : 25271,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104134000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0F3E0] Style: Kanji-furigana,瀬戸フォント,16.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,6,0,1,1,1,6,25,25,25,1",
+	"sec" : 25271,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104137300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0F3E0] Style: Default-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1",
+	"sec" : 25271,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104141500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0F3E0] Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25271,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104144800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0F3E0] Style: Kanji,装甲明朝,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,7,0,1,2,2,6,25,25,25,1",
+	"sec" : 25271,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104148800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0F3E0] Style: translation,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,1,25,25,25,1",
+	"sec" : 25271,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104151900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0F3E0] Style: romaji useless,Times New Roman,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,2,0,1,2,2,7,25,25,25,1",
+	"sec" : 25271,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104155200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0F3E0] Style: romaji,Hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,4,25,25,25,1",
+	"sec" : 25271,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104158500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0F3E0] Style: romaji2,Ahellya,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,4,25,25,25,1",
+	"sec" : 25271,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104162200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F1F0F3E0] Style: translation FR,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,1,25,25,25,1",
+	"sec" : 25271,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104165300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25271,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104168700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (14 styles, 13 events)",
+	"sec" : 25271,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 104201300
+}{
+	"file" : "../libaegisub/common/hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 128,
+	"message" : "Found: Ctrl-A  Context: Subtitle Grid  Command: subtitle/select/all",
+	"sec" : 25271,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 630145100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14C1BD0] Style: romaji2-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,4,25,25,25,1",
+	"sec" : 25273,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 511441400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14C1BD0] Style: romaji useless-furigana,Times New Roman,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,2,0,1,1,1,7,25,25,25,1",
+	"sec" : 25273,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 511457500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14C1BD0] Style: translation-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,1,25,25,25,1",
+	"sec" : 25273,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 511463500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14C1BD0] Style: romaji-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,4,25,25,25,1",
+	"sec" : 25273,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 511468000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14C1BD0] Style: Kanji-furigana,瀬戸フォント,16.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,6,0,1,1,1,6,25,25,25,1",
+	"sec" : 25273,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 511471900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14C1BD0] Style: Default-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1",
+	"sec" : 25273,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 511475800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14C1BD0] Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25273,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 511479200
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14C1BD0] Style: Kanji,装甲明朝,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,7,0,1,2,2,6,25,25,25,1",
+	"sec" : 25273,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 511482700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14C1BD0] Style: translation,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,1,25,25,25,1",
+	"sec" : 25273,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 511485800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14C1BD0] Style: romaji useless,Times New Roman,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,2,0,1,2,2,7,25,25,25,1",
+	"sec" : 25273,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 511488900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14C1BD0] Style: romaji,Hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,4,25,25,25,1",
+	"sec" : 25273,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 511492100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14C1BD0] Style: romaji2,Ahellya,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,4,25,25,25,1",
+	"sec" : 25273,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 511495100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2F14C1BD0] Style: translation FR,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,1,25,25,25,1",
+	"sec" : 25273,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 511498500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25273,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 511501800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (14 styles, 1 events)",
+	"sec" : 25273,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 511509600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "fontselect: (IM FELL English, 700, 0) -> IM_FELL_English_Roman, 0, IM_FELL_English_Roman",
+	"sec" : 25273,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 512610400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2871F7F50] Style: romaji2-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,4,25,25,25,1",
+	"sec" : 25275,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 83741400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2871F7F50] Style: romaji useless-furigana,Times New Roman,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,2,0,1,1,1,7,25,25,25,1",
+	"sec" : 25275,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 83764500
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2871F7F50] Style: translation-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,1,25,25,25,1",
+	"sec" : 25275,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 83772900
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2871F7F50] Style: romaji-furigana,Ahellya,25,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,1,1,4,25,25,25,1",
+	"sec" : 25275,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 83779600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2871F7F50] Style: Kanji-furigana,瀬戸フォント,16.5,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,6,0,1,1,1,6,25,25,25,1",
+	"sec" : 25275,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 83786100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2871F7F50] Style: Default-furigana,Arial,10,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1,1,2,10,10,10,1",
+	"sec" : 25275,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 83792700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2871F7F50] Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1",
+	"sec" : 25275,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 83799400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2871F7F50] Style: Kanji,装甲明朝,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,7,0,1,2,2,6,25,25,25,1",
+	"sec" : 25275,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 83806000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2871F7F50] Style: translation,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,1,25,25,25,1",
+	"sec" : 25275,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 83812100
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2871F7F50] Style: romaji useless,Times New Roman,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,2,0,1,2,2,7,25,25,25,1",
+	"sec" : 25275,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 83817800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2871F7F50] Style: romaji,Hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,4,25,25,25,1",
+	"sec" : 25275,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 83823800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2871F7F50] Style: romaji2,Ahellya,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,4,25,25,25,1",
+	"sec" : 25275,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 83829800
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "[000002B2871F7F50] Style: translation FR,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,1,25,25,25,1",
+	"sec" : 25275,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 83836600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "No event format found, using fallback",
+	"sec" : 25275,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 83842300
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Added subtitle file: <memory> (14 styles, 13 events)",
+	"sec" : 25275,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 83897300
+}{
+	"file" : "../libaegisub/common/hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-S  Context (req/found): Subtitle Grid/Default   Command: subtitle/save",
+	"sec" : 25280,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 966291400
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 43,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\languagebarrier\\\\subs\\\\movie_op_tlonly.ass\"",
+	"sec" : 25280,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 966377000
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 43,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\config.json\"",
+	"sec" : 25284,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 978809700
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 982581400
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 982596300
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 982598400
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 982599700
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 982601600
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 982602800
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 982603900
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 982605400
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 982606500
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 982607900
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 982609100
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 983581700
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 983590300
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 983591800
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 983593400
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 983595100
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 983596400
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 983597400
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 983598500
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 983599700
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 983601200
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 25284,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 983602300
+}

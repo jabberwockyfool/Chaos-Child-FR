@@ -1,0 +1,19 @@
+{
+	"Audio" : [],
+	"Find" : [],
+	"Keyframes" : [],
+	"Replace" : [],
+	"Subtitle" : [
+		"F:\\Github\\Chaos-Child-FR\\languagebarrier\\subs\\movie_op_tlonly.ass",
+		"F:\\Github\\Chaos-Child-FR\\languagebarrier\\subs\\lq_movie_op.bk2.ass",
+		"F:\\Github\\Chaos-Child-FR\\languagebarrier\\subs\\cc_ed002a_tlonly.ass",
+		"F:\\Github\\Chaos-Child-FR\\languagebarrier\\subs\\cc_ed001a_tlonly.ass",
+		"F:\\Github\\Chaos-Child-FR\\languagebarrier\\subs\\cc_ed001a_karaonly.ass",
+		"F:\\Github\\Chaos-Child-FR\\languagebarrier\\subs\\movie_op_karaonly.ass",
+		"F:\\Github\\Chaos-Child-FR\\languagebarrier\\subs\\movie_op2_tlonly.ass"
+	],
+	"Timecodes" : [],
+	"Video" : [
+		"?dummy:23.976000:40000:640:480:47:163:254:"
+	]
+}
