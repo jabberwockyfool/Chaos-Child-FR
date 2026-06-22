@@ -28,7 +28,7 @@
 			}
 		],
 		"Language" : "fr_FR",
-		"Maximized" : true,
+		"Maximized" : false,
 		"Save Charset" : "UTF-8",
 		"Save UI State" : true,
 		"Show Toolbar" : true,
@@ -560,13 +560,13 @@
 		},
 		"Style Editor" : {
 			"Last" : {
-				"Height" : -1,
-				"Width" : -1,
-				"X" : -1,
-				"Y" : -1
+				"Height" : 369,
+				"Width" : 696,
+				"X" : 895,
+				"Y" : 405
 			},
 			"Maximized" : false,
-			"Preview Text" : "Aegisub\\N0123 日本語"
+			"Preview Text" : "Aegisub\\N0123 日本語 MédÄ"
 		},
 		"Style Manager" : {
 			"Last" : {
