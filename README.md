@@ -13,7 +13,7 @@ Ce projet propose une traduction française de **CHAOS;CHILD**, construite à pa
 ## Avancement
 | Contenu               | Progression  |
 |-----------------------|--------------|
-| [Scripts (dialogues)](https://github.com/jabberwockyfool/Chaos-Child-FR/tree/main/script-decompile)   |     09/216    |
+| [Scripts (dialogues)](https://github.com/jabberwockyfool/Chaos-Child-FR/tree/main/script-decompile)   |     16/216    |
 | Script système   |      ✅      |
 | Dialogues               | 🔄 |
 | Police (accents FR)   |      ✅      |
