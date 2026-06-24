@@ -1,0 +1,649 @@
+{
+	"file" : "../src/utils.cpp",
+	"func" : "CleanCache::<lambda_1>::operator ()",
+	"line" : 166,
+	"message" : "cleaning \"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\log\\\\*.json\"",
+	"sec" : 16658,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 490869700
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\config.json\"",
+	"sec" : 16658,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 490885600
+}{
+	"file" : "../src/utils.cpp",
+	"func" : "CleanCache::<lambda_1>::operator ()",
+	"line" : 177,
+	"message" : "cache does not need cleaning (maxsize=10485760, cursize=1507461, maxfiles=100, numfiles=21), exiting",
+	"sec" : 16658,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 491489500
+}{
+	"file" : "../src/command/command.cpp",
+	"func" : "cmd::init_builtin_commands",
+	"line" : 81,
+	"message" : "Populating command map",
+	"sec" : 16658,
+	"section" : "command/init",
+	"severity" : 4,
+	"usec" : 492811400
+}{
+	"file" : "../libaegisub/common/hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Hotkey",
+	"line" : 92,
+	"message" : "Generating hotkeys.",
+	"sec" : 16658,
+	"section" : "hotkey/init",
+	"severity" : 4,
+	"usec" : 493006800
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\hotkey.json\"",
+	"sec" : 16658,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 493027700
+}{
+	"file" : "../libaegisub/common/mru.cpp",
+	"func" : "agi::MRUManager::MRUManager",
+	"line" : 67,
+	"message" : "Loading MRU List",
+	"sec" : 16658,
+	"section" : "agi/mru",
+	"severity" : 4,
+	"usec" : 493750700
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\mru.json\"",
+	"sec" : 16658,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 493779000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass API version: 0x1703020",
+	"sec" : 16658,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 499560700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "libass source: meson, commit: 0.17.3-74-g4d6e9ef3077fb279cab051cc00b216c5f08efb34",
+	"sec" : 16658,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 499570600
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Raster: FreeType 2.13.3",
+	"sec" : 16658,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 499638400
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Shaper: FriBidi 1.0.16 (SIMPLE) HarfBuzz-ng 10.2.0 (COMPLEX)",
+	"sec" : 16658,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 500814700
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Initialized",
+	"sec" : 16658,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 500825000
+}{
+	"file" : "../src/subtitles_provider_libass.cpp",
+	"func" : "`anonymous-namespace'::msg_callback",
+	"line" : 75,
+	"message" : "Using font provider directwrite (with GDI)",
+	"sec" : 16658,
+	"section" : "subtitle/provider/libass",
+	"severity" : 4,
+	"usec" : 502747100
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 99,
+	"message" : "Entering FrameMain constructor",
+	"sec" : 16659,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 626996300
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 110,
+	"message" : "Initializing context controls",
+	"sec" : 16659,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 627017400
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 117,
+	"message" : "Initializing context frames",
+	"sec" : 16659,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 627032900
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 121,
+	"message" : "Apply saved Maximized state",
+	"sec" : 16659,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 627036800
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 124,
+	"message" : "Initialize toolbar",
+	"sec" : 16659,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 627038400
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 129,
+	"message" : "Initialize menu bar",
+	"sec" : 16659,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 788440000
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 132,
+	"message" : "Create status bar",
+	"sec" : 16659,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 803020000
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 135,
+	"message" : "Set icon",
+	"sec" : 16659,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 806339800
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 144,
+	"message" : "Create views and inner main window controls",
+	"sec" : 16659,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 806751800
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 184,
+	"message" : "Create background panel",
+	"sec" : 16659,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 806764500
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 187,
+	"message" : "Create subtitles grid",
+	"sec" : 16659,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 807271200
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 190,
+	"message" : "Create video box",
+	"sec" : 16659,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 821411900
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 193,
+	"message" : "Create audio box",
+	"sec" : 16660,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 542443700
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 196,
+	"message" : "Create subtitle editing box",
+	"sec" : 16660,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 627817100
+}{
+	"file" : "../src/spellchecker_hunspell.cpp",
+	"func" : "HunspellSpellChecker::OnLanguageChanged",
+	"line" : 190,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\dictionaries\\\\en_US.dic\"",
+	"sec" : 16660,
+	"section" : "dictionary/file",
+	"severity" : 3,
+	"usec" : 858596800
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\dictionaries\\\\user_en_US.dic\"",
+	"sec" : 16660,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 889033800
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 199,
+	"message" : "Arrange main sizers",
+	"sec" : 16660,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 987780600
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 212,
+	"message" : "Perform layout",
+	"sec" : 16660,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 989905700
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::InitContents",
+	"line" : 214,
+	"message" : "Leaving InitContents",
+	"sec" : 16661,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 27687200
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 148,
+	"message" : "Set up drag/drop target",
+	"sec" : 16661,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 27710400
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 151,
+	"message" : "Load default file",
+	"sec" : 16661,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 28476700
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\catalog\\\\Default.sty\"",
+	"sec" : 16661,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 28585800
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 154,
+	"message" : "Display main window",
+	"sec" : 16661,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 36467600
+}{
+	"file" : "../src/frame_main.cpp",
+	"func" : "FrameMain::FrameMain",
+	"line" : 159,
+	"message" : "Leaving FrameMain constructor",
+	"sec" : 16661,
+	"section" : "frame_main/init",
+	"severity" : 3,
+	"usec" : 107131800
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"E:\\\\SteamLibrary\\\\steamapps\\\\common\\\\CHAOS;CHILD\\\\languagebarrier\\\\subs\\\\cc_ed001a_tlonly.ass\"",
+	"sec" : 16661,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 107502400
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"E:\\\\SteamLibrary\\\\steamapps\\\\common\\\\CHAOS;CHILD\\\\languagebarrier\\\\subs\\\\cc_ed001a_tlonly.ass\"",
+	"sec" : 16661,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 107781100
+}{
+	"file" : "../src/utils.cpp",
+	"func" : "CleanCache::<lambda_1>::operator ()",
+	"line" : 166,
+	"message" : "cleaning \"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\autosave\\\\*.AUTOSAVE.ass\"",
+	"sec" : 16663,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 578737100
+}{
+	"file" : "../src/utils.cpp",
+	"func" : "CleanCache::<lambda_1>::operator ()",
+	"line" : 177,
+	"message" : "cache does not need cleaning (maxsize=104857600, cursize=8654219, maxfiles=1000, numfiles=95), exiting",
+	"sec" : 16663,
+	"section" : "utils/clean_cache",
+	"severity" : 4,
+	"usec" : 580905000
+}{
+	"file" : "../libaegisub/common/hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-C  Context (req/found): Subtitle Edit Box/Default   Command: edit/line/copy",
+	"sec" : 16697,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 441238000
+}{
+	"file" : "../libaegisub/common/hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-V  Context (req/found): Subtitle Edit Box/Default   Command: edit/line/paste",
+	"sec" : 16700,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 545707400
+}{
+	"file" : "../libaegisub/common/hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-S  Context (req/found): Subtitle Grid/Default   Command: subtitle/save",
+	"sec" : 16703,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 761421300
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 43,
+	"message" : "\"E:\\\\SteamLibrary\\\\steamapps\\\\common\\\\CHAOS;CHILD\\\\languagebarrier\\\\subs\\\\cc_ed001a_tlonly.ass\"",
+	"sec" : 16703,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 761716100
+}{
+	"file" : "../libaegisub/common/hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-S  Context (req/found): Subtitle Grid/Default   Command: subtitle/save",
+	"sec" : 16716,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 945345000
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 43,
+	"message" : "\"E:\\\\SteamLibrary\\\\steamapps\\\\common\\\\CHAOS;CHILD\\\\languagebarrier\\\\subs\\\\cc_ed001a_tlonly.ass\"",
+	"sec" : 16716,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 945499100
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"E:\\\\SteamLibrary\\\\steamapps\\\\common\\\\CHAOS;CHILD\\\\languagebarrier\\\\subs\\\\movie_op_tlonly.ass\"",
+	"sec" : 16742,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 184069300
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"E:\\\\SteamLibrary\\\\steamapps\\\\common\\\\CHAOS;CHILD\\\\languagebarrier\\\\subs\\\\movie_op_tlonly.ass\"",
+	"sec" : 16742,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 184440000
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 43,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\mru.json\"",
+	"sec" : 16742,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 185660500
+}{
+	"file" : "../libaegisub/common/hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-S  Context (req/found): Subtitle Grid/Default   Command: subtitle/save",
+	"sec" : 16749,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 2031300
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 43,
+	"message" : "\"E:\\\\SteamLibrary\\\\steamapps\\\\common\\\\CHAOS;CHILD\\\\languagebarrier\\\\subs\\\\movie_op_tlonly.ass\"",
+	"sec" : 16749,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 2182900
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 43,
+	"message" : "\"E:\\\\SteamLibrary\\\\steamapps\\\\common\\\\CHAOS;CHILD\\\\languagebarrier\\\\subs\\\\movie_op_tlonly.ass\"",
+	"sec" : 16762,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 229317100
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"E:\\\\SteamLibrary\\\\steamapps\\\\common\\\\CHAOS;CHILD\\\\languagebarrier\\\\subs\\\\lq_movie_op.bk2.ass\"",
+	"sec" : 16771,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 89542600
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Open",
+	"line" : 28,
+	"message" : "\"E:\\\\SteamLibrary\\\\steamapps\\\\common\\\\CHAOS;CHILD\\\\languagebarrier\\\\subs\\\\lq_movie_op.bk2.ass\"",
+	"sec" : 16771,
+	"section" : "agi/io/open/file",
+	"severity" : 4,
+	"usec" : 89863700
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 43,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\mru.json\"",
+	"sec" : 16771,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 94411400
+}{
+	"file" : "../libaegisub/common/hotkey.cpp",
+	"func" : "agi::hotkey::Hotkey::Scan",
+	"line" : 132,
+	"message" : "Found: Ctrl-S  Context (req/found): Subtitle Grid/Default   Command: subtitle/save",
+	"sec" : 16778,
+	"section" : "agi/hotkey/found",
+	"severity" : 4,
+	"usec" : 954767400
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 43,
+	"message" : "\"E:\\\\SteamLibrary\\\\steamapps\\\\common\\\\CHAOS;CHILD\\\\languagebarrier\\\\subs\\\\lq_movie_op.bk2.ass\"",
+	"sec" : 16778,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 954917100
+}{
+	"file" : "../libaegisub/common/io.cpp",
+	"func" : "agi::io::Save::Save",
+	"line" : 43,
+	"message" : "\"F:\\\\Github\\\\Chaos-Child-FR\\\\scripts\\\\aegisub-portable\\\\config.json\"",
+	"sec" : 16786,
+	"section" : "agi/io/save/file",
+	"severity" : 4,
+	"usec" : 53704400
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 16786,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 58602000
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 16786,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 58623900
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 16786,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 58626900
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 16786,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 58629000
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 16786,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 58631000
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 16786,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 58633000
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 16786,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 59729600
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 16786,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 59734500
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 16786,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 59736700
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 16786,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 59738100
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 16786,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 59739900
+}{
+	"file" : "../src/auto4_lua_assfile.cpp",
+	"func" : "Automation4::LuaAssFile::ObjectGarbageCollect",
+	"line" : 619,
+	"message" : "Garbage collected LuaAssFile",
+	"sec" : 16786,
+	"section" : "automation/lua",
+	"severity" : 4,
+	"usec" : 59741600
+}

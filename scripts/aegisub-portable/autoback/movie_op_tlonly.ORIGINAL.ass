@@ -14,8 +14,9 @@ Last Style Storage: Default
 Video File: ?dummy:23.976000:40000:640:480:47:163:254:
 Video AR Value: 1.333333
 Video Zoom Percent: 0.750000
-Active Line: 12
-Video Position: 2213
+Scroll Position: 15
+Active Line: 16
+Video Position: 267
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,33 +32,34 @@ Style: translation,hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,
 Style: romaji useless,Times New Roman,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,80,100,2,0,1,2,2,7,25,25,25,1
 Style: romaji,Hultog,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,4,25,25,25,1
 Style: romaji2,Ahellya,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,4,25,25,25,1
+Style: translation FR,IM FELL English,46,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,80,100,2,0,1,2,2,1,25,25,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:02.28,0:00:11.22,translation,,0,0,0,karaoke,{\k8790}Une délusion mystérieuse se dirige vers ce monde obscène{\k25}
-Comment: 0,0:00:11.40,0:00:20.16,translation,,0,0,0,karaoke,{\k8510}Et est rongé par des cellules analgésiques{\k25}
-Comment: 0,0:00:35.66,0:00:41.60,translation,,0,0,0,karaoke,{\k5790}Si tu cours aveuglément dans ces escaliers en colimaçon,{\k25}
-Comment: 0,0:00:42.60,0:00:48.42,translation,,0,0,0,karaoke,{\k5670}Tu chassera et sera chassé{\k25}
-Comment: 0,0:00:48.71,0:00:51.76,translation,,0,0,0,karaoke,{\k3050}Laissons-nous tomber
-Comment: 0,0:00:52.22,0:00:54.80,translation,,0,0,0,karaoke,{\k2330}Jusqu'au bout de la fin amère{\k25}
-Comment: 0,0:00:55.21,0:00:58.72,translation,,0,0,0,karaoke,{\k3510}What you gonna do?
-Comment: 0,0:00:59.09,0:01:01.94,translation,,0,0,0,karaoke,{\k2600}Your sight's gone now{\k25}
-Comment: 0,0:01:02.96,0:01:11.80,translation,,0,0,0,karaoke,{\k8590}The cursor alone flickers... It's midday madness{\k25}
-Comment: 0,0:01:13.24,0:01:16.70,translation,,0,0,0,karaoke,{\k3460}Bienvenue dans le monde de ChäoS...
-Comment: 0,0:01:17.96,0:01:24.91,translation,,0,0,0,karaoke,{\k6700}An unfathomable delusion finds its way to the obscene world{\k25}
-Comment: 0,0:01:25.06,0:01:32.00,translation,,0,0,0,karaoke,{\k6790}And is gnawed at by analgesic cells{\k25}
-Comment: 0,0:01:32.30,0:01:44.18,translation,,0,0,0,karaoke,{\k11630}The world that we can see is the boundary between reality and lies{\k25}
-Comment: 0,0:01:59.11,0:03:48.50,translation,,0,0,0,template noblank,!retime("line",-300,0)!{\fad(300,250)\pos(!$x+25!,!$y-25!)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}
-Dialogue: 0,0:00:01.98,0:00:11.22,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Une délusion mystérieuse se dirige vers ce monde obscène
-Dialogue: 0,0:00:11.10,0:00:20.16,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Et est rongé par des cellules analgésiques
-Dialogue: 0,0:00:35.36,0:00:41.60,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Pendant que tu cours dans ces escaliers en colimaçon encore sonné,
-Dialogue: 0,0:00:42.30,0:00:48.42,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Tu chassera et sera chassé
-Dialogue: 0,0:00:48.41,0:00:51.76,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Laissons-nous tomber
-Dialogue: 0,0:00:51.92,0:00:54.80,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Jusqu'au bout de la fin amère
-Dialogue: 0,0:00:54.91,0:00:58.72,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Qu'est-ce que tu vas faire ?
-Dialogue: 0,0:00:58.79,0:01:01.94,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}En étant aveuglé ?
-Dialogue: 0,0:01:02.66,0:01:11.80,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Seul le curseur clignote... c'est un rêve éveillé
-Dialogue: 0,0:01:12.94,0:01:16.70,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Bienvenue dans le monde de ChäoS...
-Dialogue: 0,0:01:17.66,0:01:24.91,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Une délusion mystérieuse se dirige vers ce monde obscène
-Dialogue: 0,0:01:24.76,0:01:32.00,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Et est rongé par des cellules analgésiques
-Dialogue: 0,0:01:32.00,0:01:44.18,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Le monde que nous pouvons voir est la frontière entre le réel et l'irréel
+Comment: 0,0:00:02.28,0:00:11.22,translation FR,,0,0,0,karaoke,{\k8790}Une délusion mystérieuse se dirige vers ce monde obscène{\k25}
+Comment: 0,0:00:11.40,0:00:20.16,translation FR,,0,0,0,karaoke,{\k8510}Et est rongé par des cellules analgésiques{\k25}
+Comment: 0,0:00:35.66,0:00:41.60,translation FR,,0,0,0,karaoke,{\k5790}Si tu cours aveuglément dans ces escaliers en colimaçon{\k25}
+Comment: 0,0:00:42.60,0:00:48.42,translation FR,,0,0,0,karaoke,{\k5670}Tu chassera et sera chassé{\k25}
+Comment: 0,0:00:48.71,0:00:51.76,translation FR,,0,0,0,karaoke,{\k3050}Laissons-nous tomber
+Comment: 0,0:00:52.22,0:00:54.80,translation FR,,0,0,0,karaoke,{\k2330}Jusqu'au bout de la fin amère{\k25}
+Comment: 0,0:00:55.21,0:00:58.72,translation FR,,0,0,0,karaoke,{\k3510}What you gonna do?
+Comment: 0,0:00:59.09,0:01:01.94,translation FR,,0,0,0,karaoke,{\k2600}Your sight's gone now{\k25}
+Comment: 0,0:01:02.96,0:01:11.80,translation FR,,0,0,0,karaoke,{\k8590}The cursor alone flickers... It's midday madness{\k25}
+Comment: 0,0:01:13.24,0:01:16.70,translation FR,,0,0,0,karaoke,{\k3460}Bienvenue dans le monde de ChäoS...
+Comment: 0,0:01:17.96,0:01:24.91,translation FR,,0,0,0,karaoke,{\k6700}An unfathomable delusion finds its way to the obscene world{\k25}
+Comment: 0,0:01:25.06,0:01:32.00,translation FR,,0,0,0,karaoke,{\k6790}And is gnawed at by analgesic cells{\k25}
+Comment: 0,0:01:32.30,0:01:44.18,translation FR,,0,0,0,karaoke,{\k11630}The world that we can see is the boundary between reality and lies{\k25}
+Comment: 0,0:01:59.11,0:03:48.50,translation FR,,0,0,0,template noblank,!retime("line",-300,0)!{\fad(300,250)\pos(!$x+25!,!$y-25!)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}
+Dialogue: 0,0:00:01.98,0:00:11.22,translation FR,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Une délusion mystérieuse se dirige vers ce monde obscène
+Dialogue: 0,0:00:11.10,0:00:20.16,translation FR,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Et est rongé par des cellules analgésiques
+Dialogue: 0,0:00:35.36,0:00:41.60,translation FR,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Pendant que tu cours dans ces escaliers en colimaçon encore sonné
+Dialogue: 0,0:00:42.30,0:00:48.42,translation FR,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Tu chassera et sera chassé
+Dialogue: 0,0:00:48.41,0:00:51.76,translation FR,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Laissons-nous tomber
+Dialogue: 0,0:00:51.92,0:00:54.80,translation FR,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Jusqu'au bout de la fin amère
+Dialogue: 0,0:00:54.91,0:00:58.72,translation FR,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Qu'est-ce que tu vas faire ?
+Dialogue: 0,0:00:58.79,0:01:01.94,translation FR,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}En étant aveuglé ?
+Dialogue: 0,0:01:02.66,0:01:11.80,translation FR,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Seul le curseur clignote... c'est un rêve éveillé
+Dialogue: 0,0:01:12.94,0:01:16.70,translation FR,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Bienvenue dans le monde de ChäoS...
+Dialogue: 0,0:01:17.66,0:01:24.91,translation FR,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Une délusion mystérieuse se dirige vers ce monde obscène
+Dialogue: 0,0:01:24.76,0:01:32.00,translation FR,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Et est rongé par des cellules analgésiques
+Dialogue: 0,0:01:32.00,0:01:44.18,translation FR,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&HF4F3E8&\3c&H744844&\shad0}Le monde que nous pouvons voir est la frontière entre le réel et l'irréel

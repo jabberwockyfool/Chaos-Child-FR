@@ -28,7 +28,7 @@
 			}
 		],
 		"Language" : "fr_FR",
-		"Maximized" : false,
+		"Maximized" : true,
 		"Save Charset" : "UTF-8",
 		"Save UI State" : true,
 		"Show Toolbar" : true,

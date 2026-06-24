@@ -2,13 +2,15 @@
   <img src="Logo.png" alt="Chaos;Child FR" width="520">
 </p>
 
-"Si tu étais Dieu, et tes délusions pourraient devenir réalité, lesquelles souhaiterait-tu ? Un monde sensuel? Une société despotique? Des sanctions destructives ? Ou..." 
+"Si tu étais Dieu, et tes délusions pouvaient devenir réalité, lesquelles souhaiterais-tu ? Un monde sensuel? Une société despotique? Des sanctions destructives ? Ou..."
 
 # Présentation
 
 Patch français pour le visual novel **CHAOS;CHILD**.
 
 Ce projet propose une traduction française de **CHAOS;CHILD**, construite à partir du patch de référence de **Committee of Zero**. L'objectif est de rendre le jeu accessible aux joueuses et joueurs francophones tout en conservant l'esprit, le rythme et les nuances du texte original. Cette traduction est rédigée par "medpapaya" et "mekki (jabberwockyfool)"
+
+## ⚠️ Attention ! Nous traduisons à la base de la version anglaise de Committee of Zero et non à base de la version originale japonaise, des fautes pourraient être commises, dont le sens d'une phrase pourrait être inexacte face à la version japonaise. Si vous constatez une erreur, veuillez nous la faire part. Cela s'applique aussi à des bugs non-découverts. Nous vous remercions d'avoir pris le temps de lire !
 
 ## Avancement
 | Contenu               | Progression  |
