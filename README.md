@@ -17,7 +17,7 @@ Ce projet propose une traduction française de **CHAOS;CHILD**, construite à pa
 | Script système   |      ✅      |
 | [Police (accents FR)](/languagebarrier/subs/fonts)   |      ✅      |
 | Menus/CG                 | 🔄 |
-| [Scripts (dialogues)](/languagebarrier/subs) | 🔄 (50%) |   
+| [Sous-titres des vidéos](/languagebarrier/subs) | 🔄 (50%) |   
 
 ## Fichiers à traduire (pour traducteurs)
 - bg1.mpk
