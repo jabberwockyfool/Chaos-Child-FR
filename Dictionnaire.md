@@ -53,4 +53,4 @@
 | Blood Tune | Blood Tune |
 | Mainstream Media | Média Mainstream |
 | Killsteal | Killsteal |
-| Roll | Roll |
+| Revolving Dead | Ronde macabre |
