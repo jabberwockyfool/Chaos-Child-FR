@@ -6,20 +6,18 @@
 
 # Présentation
 
-Patch français pour le visual novel **CHAOS;CHILD**.
-
 Ce projet propose une traduction française de **CHAOS;CHILD**, construite à partir du patch de référence de **Committee of Zero**. L'objectif est de rendre le jeu accessible aux joueuses et joueurs francophones tout en conservant l'esprit, le rythme et les nuances du texte original. Cette traduction est rédigée par "medpapaya" et "mekki (jabberwockyfool)"
 
-## ⚠️ Attention ! Nous traduisons à la base de la version anglaise de Committee of Zero et non à base de la version originale japonaise, des fautes pourraient être commises, dont le sens d'une phrase pourrait être inexacte face à la version japonaise. Si vous constatez une erreur, veuillez nous la faire part. Cela s'applique aussi à des bugs non-découverts. Nous vous remercions d'avoir pris le temps de lire !
+## ⚠️ Il est à noter que nous traduisons à la base de la version anglaise de Committee of Zero et non à base de la version originale japonaise, des fautes pourraient être commises, dont le sens d'une phrase pourrait être inexacte face à la version japonaise. Si vous constatez une erreur, veuillez nous la faire part. Cela s'applique aussi à des bugs non-découverts. Nous vous remercions d'avoir pris le temps de lire ! 
 
 ## Avancement
 | Contenu               | Progression  |
 |-----------------------|--------------|
-| [Scripts (dialogues)](https://github.com/jabberwockyfool/Chaos-Child-FR/tree/main/script-decompile)   |     37/216 (17.13%)   |
+| [Scripts (dialogues)](/script-decompile) | 🔄 37/216 (17.13%) |        
 | Script système   |      ✅      |
-| Dialogues               | 🔄 |
-| Police (accents FR)   |      ✅      |
+| [Police (accents FR)](/languagebarrier/subs/fonts)   |      ✅      |
 | Menus/CG                 | 🔄 |
+| [Sous-titres des vidéos](/languagebarrier/subs) | 🔄 (50%) |   
 
 ## Fichiers à traduire (pour traducteurs)
 - bg1.mpk
@@ -31,8 +29,9 @@ Ce projet propose une traduction française de **CHAOS;CHILD**, construite à pa
 ## Crédits
 
 - **Committee of Zero** pour le patch de base et leur travail sur CHAOS;CHILD.
-- **MAGES Inc.** pour le visual novel original.
+- **MAGES Inc.** et ses employés pour le visual novel original.
 - L'équipe de traduction française pour l'adaptation, la relecture et l'intégration.
+- Les testeurs nous faisant part de leur expérience avec le patch.
 
 ## Licence & Avertissement légal
 Ce projet est sous licence **[CC BY-NC-SA 4.0](LICENSE)** — libre d'utilisation et de modification,
