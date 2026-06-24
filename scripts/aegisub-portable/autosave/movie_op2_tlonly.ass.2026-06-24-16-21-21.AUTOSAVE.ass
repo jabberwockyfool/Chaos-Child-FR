@@ -10,14 +10,6 @@ PlayResX: 1280
 PlayResY: 720
 
 [Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: karasubvideos/movie_op2.mkv
-Video File: karasubvideos/movie_op2.mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.687500
-Active Line: 16
-Video Position: 2067
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,10 +34,10 @@ Comment: 0,0:01:05.39,0:01:13.38,translation,,0,0,0,karaoke,{\k7990}So that Sile
 Comment: 0,0:01:13.68,0:01:29.14,translation,,0,0,0,karaoke,{\k15460}And should the sunlight reach those eyes, offer up your false prayers
 Comment: 0,0:01:59.11,0:03:48.50,translation,,0,0,0,template noblank,!retime("line",-300,0)!{\fad(300,250)\pos(!$x+25!,!$y-25!)\fscy83\blur3\c&H242424&\3c&HCCCCCC&\shad0}
 Dialogue: 0,0:00:17.36,0:00:25.54,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&H242424&\3c&HCCCCCC&\shad0}Prenant refuge durant une pluie torrentielle inattendue
-Dialogue: 0,0:00:25.35,0:00:33.44,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&H242424&\3c&HCCCCCC&\shad0}Pulsions et plaisirs ne formant rien d'autre que des stigmates
-Dialogue: 0,0:00:33.41,0:00:41.54,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&H242424&\3c&HCCCCCC&\shad0}La création d'un miracle... Une situation banale
-Dialogue: 0,0:00:41.38,0:00:49.24,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&H242424&\3c&HCCCCCC&\shad0}La pièce entra dans son acte final, et la lumière enveloppa toute chose-
-Dialogue: 0,0:00:49.10,0:00:56.97,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&H242424&\3c&HCCCCCC&\shad0}Rencontrer l'amour... L'enlacer dans un baiser...
-Dialogue: 0,0:00:56.86,0:01:05.36,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&H242424&\3c&HCCCCCC&\shad0}Alors que la route qu'ils parcourent tous deux est plongée dans le chaos
-Dialogue: 0,0:01:05.09,0:01:13.38,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&H242424&\3c&HCCCCCC&\shad0}Afin que la Nuit Silencieuse nous guide vers le véritable ciel
-Dialogue: 0,0:01:13.38,0:01:29.14,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&H242424&\3c&HCCCCCC&\shad0}Et si la lumière du soleil venait à atteindre ces yeux, adresse tes fausses prières
+Dialogue: 0,0:00:25.35,0:00:33.44,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&H242424&\3c&HCCCCCC&\shad0}Urges and pleasures both forming nothing but pockmarks
+Dialogue: 0,0:00:33.41,0:00:41.54,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&H242424&\3c&HCCCCCC&\shad0}The creation of a miracle... An everyday situation
+Dialogue: 0,0:00:41.38,0:00:49.24,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&H242424&\3c&HCCCCCC&\shad0}The play began its finale, and the light enveloped all-
+Dialogue: 0,0:00:49.10,0:00:56.97,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&H242424&\3c&HCCCCCC&\shad0}Encounter love... Embrace in a kiss...
+Dialogue: 0,0:00:56.86,0:01:05.36,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&H242424&\3c&HCCCCCC&\shad0}As the road those two walk is veiled in chaos
+Dialogue: 0,0:01:05.09,0:01:13.38,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&H242424&\3c&HCCCCCC&\shad0}So that Silent Night may lead us to the real sky someday
+Dialogue: 0,0:01:13.38,0:01:29.14,translation,,0,0,0,fx,{\fad(300,250)\pos(50,670)\fscy83\blur3\c&H242424&\3c&HCCCCCC&\shad0}And should the sunlight reach those eyes, offer up your false prayers
