@@ -1,7 +1,7 @@
 # Fonctionnalités à rajouter en plus de la traduction
 
 ## UI
-- [ ] Interface utilisateur en français (bouton CHARGER au lieu de LOAD, etc...)
+- [🔄] Interface utilisateur en français (bouton CHARGER au lieu de LOAD, etc...)
 
 ## Compatibilité multi-plateforme
 - [🔄] Switch
