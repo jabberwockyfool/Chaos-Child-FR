@@ -6,14 +6,14 @@
 
 # Présentation
 
-Ce projet propose une traduction française de **CHAOS;CHILD**, construite à partir du patch de référence de **Committee of Zero**. L'objectif est de rendre le jeu accessible aux joueuses et joueurs francophones tout en conservant l'esprit, le rythme et les nuances du texte original. Cette traduction est rédigée par "medpapaya" et "mekki (jabberwockyfool)"
+Ce projet propose une traduction française de **CHAOS;CHILD**, construite à partir du patch de référence de **Committee of Zero**. L'objectif est de rendre le jeu accessible aux joueuses et joueurs francophones tout en conservant l'esprit, le rythme et les nuances du texte original. Cette traduction est rédigée par l'équipe des **Enfants du ChäoS** (Composé des membres "Medpapaya" et "Mekki/jabberwockyfool")
 
 ## ⚠️ Il est à noter que nous traduisons à la base de la version anglaise de Committee of Zero et non à base de la version originale japonaise, des fautes pourraient être commises, dont le sens d'une phrase pourrait être inexacte face à la version japonaise. Si vous constatez une erreur, veuillez nous la faire part. Cela s'applique aussi à des bugs non-découverts. Nous vous remercions d'avoir pris le temps de lire ! 
 
 ## Avancement
 | Contenu               | Progression  |
 |-----------------------|--------------|
-| [Scripts (dialogues)](/script-decompile) | 🔄 37/216 (17.13%) |        
+| [Scripts (dialogues)](/script-decompile) | 🔄 51/216 (23,61%) |        
 | Script système   |      ✅      |
 | [Police (accents FR)](/languagebarrier/subs/fonts)   |      ✅      |
 | Menus/CG                 | 🔄 |
