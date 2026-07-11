@@ -29,69 +29,69 @@ Takayanagi
 高柳の声
 Ootani
 Tanaka
-Gero Froggy Jaune 
-Gero Froggy Rouge
-Gero Froggy Verte
-Écolière
-Personnel
-Femme sans abri
-Homme sans abri
-Écolier
+Yellow Gero Froggy
+Red Gero Froggy
+Green Gero Froggy
+Schoolgirl
+Staff
+Homeless Woman
+Homeless Man
+Schoolboy
 Shingo
-Frère d'Arimura
-Père d'Arimura
-Mère d'Arimura
-Professeur
-Vendeur
-Reporter d'investigation
-Chirurgien
-Infirmière
-Policière
-Policer
-Enfants
-Présentatrice
+Arimura’s Brother
+Arimura’s Father
+Arimura’s Mother
+Teacher
+Sales Clerk
+Deciphering Reporter
+Surgeon
+Nurse
+Policewoman
+Policeman
+Kids
+Anchor Woman
 Reporter
-Présentateur
-Commentateur
-Homme âgé
-Jeune fille
+Anchor Man
+Commentator
+Aged Man
+Young Girl
 眼鏡の少女
-Fille
-Jeune garçon
-Détective
+Girl
+Young Boy
+Detective
 Weaselscythe
-Femme
+Woman
 女
 女性モデル
-Homme
-Professeur
+Man
+Teacher
 男性カメラマン
 男性スタッフ
-Employé
-Étudiante
+Employee
+Female Student
 女子生徒の声
-Étudiant
-Journaliste
-Homme
-Femme
+Male Student
+Journalist
+Man
+Woman
 Aozaki
-Autre Uki
-Assistant Vocal
+Another Uki
+Audio Guidance
 Aoi
-Conducteur
-Père de Miyashiro
-Mère de Miyashiro
-Radiodiffusion de l'École
+Driver
+Miyashiro’s Father
+Miyashiro’s Mother
+School Broadcasting
 Ayaka
-Garde
-Tous
-Jumeaux Tachibana
-Miyashiro et les autres
-Kazuki et les autres
-Yamazoe et les autres
-Étudiants
-Arimura et les autres
-Kurusu et les autres
+Guard
+All
+Tachibana Siblings
+Miyashiro and others
+Kazuki and others
+Yamazoe and others
+Students
+Arimura and others
+Kurusu and others
 Cameraman
 Sauvegarde corrumpue
 Aucune données
