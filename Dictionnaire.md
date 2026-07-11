@@ -48,7 +48,7 @@
 | Audio Bleed     | Fuite Audio        |
 | Revolving Dead  | Ronde macabre      |
 | Sumorbidly Obese| Sumorbide          |
-| Spitroasted     | Brochette          |
+| Spitroasted     | La Brochette          |
 | Minor Indiscretion| Faute Mineure     |
 
 ---
