@@ -49,7 +49,7 @@
 | Revolving Dead  | Ronde macabre      |
 | Sumorbidly Obese| Sumorbide          |
 | Spitroasted     | Brochette          |
-| Minor Indiscretion| Faute Mineur     |
+| Minor Indiscretion| Faute Mineure     |
 
 ---
 
