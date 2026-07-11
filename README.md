@@ -13,7 +13,7 @@ Ce projet propose une traduction française de **CHAOS;CHILD**, construite à pa
 ## Avancement
 | Contenu               | Progression  |
 |-----------------------|--------------|
-| [Scripts (dialogues)](/script-decompile) | 🔄 51/216 (23,61%) |        
+| [Scripts (dialogues)](/script-decompile) | 🔄 63/216 (29,16%) |        
 | Script système   |      ✅      |
 | [Police (accents FR)](/languagebarrier/subs/fonts)   |      ✅      |
 | Menus/CG                 | 🔄 |
