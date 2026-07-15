@@ -8,7 +8,7 @@
 [center][margin top="242"][color index="A0140000"]Ces rêves sont étranges, comme ça.[evaluate expr="291EA4B5281400811400"][%e]
 [center][margin top="242"]Dans ces rêves, je suis une meurtrière.[evaluate expr="291EA4B5281400811400"][%e]
 Les premières personnes que j’ai tuées étaient les parents de mon ami d’enfance.[%p]
-Je les ai tués parce que “lui” voulait que je le fasse.[%p]
+Je les ai tués parce qu'“il” voulait que je le fasse.[%p]
 Au fond de son coeur, “il” était heureux. Alors moi aussi.[%p]
 Mais les meurtres ne se sont pas arrêtés là.[%p]
 Après ça, j’ai continué à tuer des gens en secret.[%p]

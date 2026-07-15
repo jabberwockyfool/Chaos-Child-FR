@@ -17,7 +17,8 @@
 | Biorythms                 | Biorythmes                                          |
 | Realboot(ed)              | Realboot(é) *(nom conservé en anglais/japonais)*    |
 | New Generation            | New Generation *(nom conservé en anglais/japonais)* |
-| New Generation Madness    | Folie de la New Generation                          |
+| New Generation Madness    | La Folie New Gen                                    |
+| Return of the New Generation Madness    | Le Retour de la Folie New Gen         |
 | Hekiho Academy            | Lycée Hekiho                                        |
 | AH Tokyo General Hospital | Hôpital général AH de Tokyo                         |
 | Committee of 300          | Le Comité des 300                                   |

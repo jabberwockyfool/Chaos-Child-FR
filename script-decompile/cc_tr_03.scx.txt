@@ -104,7 +104,7 @@ C’est l’odeur du bâtiment scolaire. Elle me donne bien plus l’impression 
 Je me fais des idées. Toutes les écoles sentent pareil.[%p]
 [name]Onoe[line]“...!”[%p]
 Et soudain, je vois une vision dans ma tête.[%p]
-CTomme hier.[%p]
+C'était comme hier.[%p]
 Mon coeur bat très fort.[%p]
 Je suis certaine de n’être jamais venue ici.[%p]
 Mais je ressens quand même une impression de déjà-vu.[%p]
