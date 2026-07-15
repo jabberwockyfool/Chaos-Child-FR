@@ -31,6 +31,8 @@
 | Psychics                  | Psychiques                                          |
 | Pyrokinesis               | Pyrokinésie                                         |
 | Pyrokinetic               | Pyrokinésiste                                       |
+| One World Order           | One World Order *(nom conservé en anglais/japonais provisoirement)* |
+
 
 ---
 
