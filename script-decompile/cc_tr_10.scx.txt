@@ -234,7 +234,7 @@ J’ai l’impression de devenir folle à cause du mal de tête et de toutes ces
 [name]Wakui[line]“Je t’ai dit que je t’observais depuis longtemps, n’est-ce pas ? Eh bien, c’était en réalité parce que je pensais pouvoir mener une autre expérience intéressante.”[%p]
 [name]Miyashiro[line]“...?”[%p]
 [name]Wakui[line]“Tu aimes les légendes urbaines, alors tu as forcément entendu parler du One World Order.”[%p]
-[name]Miyashiro[line]“...Un gouvernement mondial unifié.”[%p]
+[name]Miyashiro[line]“...Le Nouvel ordre mondial.”[%p]
 [name]Wakui[line]“Exact. En t’observant, j’ai pensé que Shibuya pourrait peut-être servir de terrain d’essai pour ça.”[%p]
 [name]Wakui[line]“Le processus de vieillissement causé par le Syndrome du Chaos Child n’est en réalité qu’un sous-produit de l’activité cérébrale. L’aspect le plus intéressant, c’est le fait que les patients ne le remarquent pas.”[%p]
 [name]Wakui[line]“Pendant le séisme, les personnes frappées par la lumière ont créé une fuite hors de la réalité comme source de soulagement face au stress.”[%p]
