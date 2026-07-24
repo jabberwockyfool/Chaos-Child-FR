@@ -66,7 +66,7 @@ Et il aurait aussi été en lien avec SafeWorks, l'entreprise chargée des trava
 Kunosato ouvrit un fichier qu'elle avait enregistré sur son PC.[%p]
 [name]Shinjo[line]« C'est quoi, ça ? »[%p]
 [name]Kunosato[line]« C'est un article de Watabe, qui a une interview avec le Club de Journalisme de Hekiho demain. »[%p]
-[name]Shinjo[line]« Le reporter du net avec qui tu as secrètement pris contact pour lancer cette guerre de commentaires ? »[%p]
+[name]Shinjo[line]« Le reporter du net avec qui tu as secrètement pris contact pour lancer cette polémique en ligne ? »[%p]
 [name]Kunosato[line]« Ouais. »[%p]
 Elle hocha la tête, puis ouvrit un cliché de la photo du Sticker Sumo prise sur les lieux. Ensuite, elle le mit côte à côte avec celui de l'article.[%p]
 Shinjo la fixa un instant... puis il comprit.[%p]
