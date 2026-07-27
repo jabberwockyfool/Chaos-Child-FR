@@ -119,7 +119,7 @@ Son attitude et ses manières la faisaient paraître plus âgée... mais le sour
 [name]Kunosato[line]“Ils n'ont trouvé aucun moyen fiable de faire manifester les DI-Sword, alors les expériences sur les Gigalomaniaques ont été jugées un échec.”[%p]
 [name]Woman[line]“Enfin, c'est bien ce qu'on soupçonnait.”[%p]
 [name]Miyashiro[line](Gigalo... quoi ?)[%p]
-Et c'est quoi, exactement, un DI-Sword... ?[%p]
+Et c'est quoi, exactement, une DI-Sword... ?[%p]
 Elle a pas dit quelque chose là-dessus dans la salle de surveillance ?[%p]
 [name]Kunosato[line]“J'ai quand même trouvé une source d'informations précieuse.”[%p]
 Kunosato-san ouvrit la portière arrière et allongea Yamazoe Uki sur la banquette.[%p]
