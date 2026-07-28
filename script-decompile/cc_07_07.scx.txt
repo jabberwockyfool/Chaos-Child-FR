@@ -403,6 +403,8 @@ Je regardai par la fenêtre et vis que la lumière du soleil avait illuminé les
 [name]Miyashiro[line]“Je sais pas. Peut-être qu'elle déteste les psychiques pour une raison quelconque, et qu'elle m'a juste trouvé par hasard...”[%p]
 [name]Itou[line]“Si c'est le cas, alors quel est l'intérêt de recréer la Folie New Gen ?”[%p]
 [name]Miyashiro[line]“...”[%p]
+[name]Itou[line]“Bien sûr, s'il y a une sorte de message encodé dans les meurtres, c'est une autre affaire.”[%p]
+[name]Miyashiro[line]“...”[%p]
 Une sorte de message...[%p]
 À l'époque...[%p]
 Quand Minamisawa Senri m'avait supplié de l'aider, je l'avais laissée là.[%p]

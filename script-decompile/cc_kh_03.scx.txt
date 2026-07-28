@@ -119,7 +119,7 @@ Et pour je ne sais quelle raison, la femme ne bougeait pas non plus. Elle restai
 Je cherchai ma DI-Sword du regard dans mon champ de vision.[%p]
 Je l'avais vue la dernière fois qu'on avait été attaqués. Si je pouvais la trouver, je pourrais peut-être me battre.[%p]
 Mais je n'en voyais aucune trace.[%18]
-Je ne cessais de me répéter « Bouge, bouge, bouge ! », mais rien ne se mettait à flotter ou à bouger tout seul.[%p]
+Je ne cessais de me répéter “Bouge, bouge, bouge !”, mais rien ne se mettait à flotter ou à bouger tout seul.[%p]
 Même si j'avais une sorte de pouvoir, si je ne pouvais pas l'utiliser maintenant, ça ne valait rien.[%p]
 J'étais impuissant. J'étais sans défense.[%18]
 [name]Kazuki[line]“Et puis...”[%p]

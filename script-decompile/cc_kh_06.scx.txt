@@ -35,7 +35,7 @@ Le dispositif de portail tout entier se mettait à émettre une lumière dorée.
 [name]Cameraman[line]“Attendez, non...”[%p]
 La journaliste fit signe au caméraman et se mit à marcher vers le dispositif.[%p]
 Je déglutis en attendant de voir ce qui allait se passer ensuite.[%p]
-« Ce n'est pas une bonne idée de s'approcher de ça, » dis-je dans ma tête.[%p]
+“Ce n'est pas une bonne idée de s'approcher de ça,” dis-je dans ma tête.[%p]
 Bien sûr, peu importe ce que je disais ici, la journaliste à l'écran ne pouvait pas m'entendre.[%p]
 [name]Reporter[line]“Qu'est-ce qui le fait briller comme ça, à votre avis ?”[%p]
 [name]Reporter[line]“Quand on regarde de plus près, on voit de minuscules particules de lumière tourbillonner autour. C'est comme de l'art.”[%p]
