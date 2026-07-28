@@ -99,7 +99,7 @@ Utiliser de vrais Stickers Sumo pour tuer Watabe présenterait un sérieux risqu
 [name]Miyashiro[line]“Si le tueur avait eu l'esprit affecté comme Arimura et moi, il aurait pu être figé sur les lieux. Alors il n'aurait pas pu s'échapper.”[%p]
 [name]Onoe[line]“Ouais, t'es toujours dans un sale état dès que tu vois ces stickers.”[%p]
 Arimura hocha plusieurs fois la tête, les sourcils froncés.[%p]
-[name]Arimura[line]“Je déteste vraiment ces trucs. C'est comme... ces délires cauchemardesques envahissent ton esprit, et au bout d'un moment tu ne sais plus ce qui est un délire et ce qui est la réalité.”[%p]
+[name]Arimura[line]“Je déteste vraiment ces trucs. C'est comme... ces délusions cauchemardesques envahissent ton esprit, et au bout d'un moment tu ne sais plus ce qui est un délire et ce qui est la réalité.”[%p]
 [name]Miyashiro[line]“Tu l'as dit. Tu te souviens de cette nuit-là, Arimura ?”[%p]
 [name]Arimura[line]“Cette nuit-là ?”[%p]
 [name]Miyashiro[line]“Cette nuit où toi et moi on a été attaqués par la pyrokinésiste, Haida Riko.”[%p]

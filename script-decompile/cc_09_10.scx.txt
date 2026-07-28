@@ -71,7 +71,7 @@ Un fragment de rationalité inutile était encore en moi, à me poser ces questi
 Je—[%p]
 Je tiens la chose qui va la tailler en pièces ![%p]
 [name]Miyashiro[line]“...!”[%p]
-Mes propres délires, qui s'étaient manifestés par le realboot.[%p]
+Mes propres délusions, qui s'étaient manifestés par le realboot.[%p]
 Une lame tordue qui ne pesait rien du tout.[%p]
 Quand je balançai ma DI-Sword, elle était largement assez près pour la toucher.[%p]
 [name]Onoe[line]“...!”[%p]
