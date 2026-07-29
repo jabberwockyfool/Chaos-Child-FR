@@ -189,7 +189,7 @@ Bien sûr, j’étais resté dans le coma environ un an après le séisme, donc 
 [name]Miyashiro[line]“Mais une personne a dit quelque chose de différent.”[%p]
 Je me souvenais mot pour mot de ce qu’elle avait dit.[%p]
 Ça m’avait profondément marqué.[%p]
-[name]Miyashiro[line]“Vous, les gens de l’extérieur, vous ne manquez pas de culot quand vous nous dites de ‘tenir bon.’”[%p]
+[name]Miyashiro[line]“Vous, les gens de l'extérieur, vous avez beau nous dire de rester forts, vous n'avez aucune idée de ce qu'on vit.”[%p]
 [name]Onoe[line]“...”[%p]
 [name]Miyashiro[line]“...Pour être honnête, j’étais entièrement d’accord.”[%p]
 Cette personne avait dit exactement ce que je pensais.[%p]
