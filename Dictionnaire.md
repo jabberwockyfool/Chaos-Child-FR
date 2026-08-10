@@ -38,21 +38,21 @@
 
 # 🔪 Meurtres New Generation
 
-| Anglais         | Français           |
-| -------------   | ------------------ |
-| Group Dive      | Plongeon Collectif |
-| Manchild        | L'Homme-Enceint    |
-| Cruc-Affixion   | Cruc-Affixion      |
-| Vampbuyer       | Sans-Sang          |
-| Numbskull       | Crâne Creux        |
-| Finger Food     | Mange-Doigts       |
-| DQN Puzzle      | Puzzle DQN         |
-| Don't Look      | Sans-Regard        |
-| Audio Bleed     | Fuite Audio        |
-| Revolving Dead  | Ronde macabre      |
-| Sumorbidly Obese| Sumorbide          |
-| Spitroasted     | La Brochette          |
-| Minor Indiscretion| Faute Mineure     |
+| Anglais           | Français           |
+| -------------     | ------------------ |
+| Group Dive        | Plongeon Collectif |
+| Manchild          | L'Homme-Enceint    |
+| Cruc-Affixion     | Cruc-Affixion      |
+| Vampbuyer         | Sans-Sang          |
+| Numbskull         | Crâne Creux        |
+| Finger Food       | Mange-Doigts       |
+| DQN Puzzle        | Puzzle DQN         |
+| Don't Look        | Sans-Regard        |
+| Audio Bleed       | Fuite Audio        |
+| Revolving Dead    | Ronde macabre      |
+| Sumorbidly Obese  | Sumorbide          |
+| Spitroasted       | La Brochette       |
+| Minor Indiscretion| Faute Mineure      |
 
 ---
 
