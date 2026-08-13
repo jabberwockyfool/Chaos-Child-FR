@@ -6,7 +6,7 @@
 
 # Présentation
 
-Ce projet propose une traduction française de **CHAOS;CHILD**, construite à partir du patch de référence de **Committee of Zero**. L'objectif est de rendre le jeu accessible aux joueuses et joueurs francophones tout en conservant l'esprit, le rythme et les nuances du texte original. Cette traduction est rédigée par l'équipe des **Saint-Eresia Traduction**
+Ce projet propose une traduction française de **CHAOS;CHILD**, construite à partir du patch de référence de **Committee of Zero**. L'objectif est de rendre le jeu accessible aux joueuses et joueurs francophones tout en conservant l'esprit, le rythme et les nuances du texte original. Cette traduction est rédigée par l'équipe de **Saint-Eresia Traduction**
 
 ## ⚠️ Il est à noter que nous traduisons à la base de la version anglaise de Committee of Zero et non à base de la version originale japonaise, des fautes pourraient être commises, dont le sens d'une phrase pourrait être inexacte face à la version japonaise. Si vous constatez une erreur, veuillez nous la faire part. Cela s'applique aussi à des bugs non-découverts. Nous vous remercions d'avoir pris le temps de lire ! 
 
