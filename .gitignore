@@ -1,0 +1,4 @@
+/DIST/
+installer/output/
+installer/manifest.txt
+*.iss.log
