@@ -2,3 +2,4 @@
 installer/output/
 installer/manifest.txt
 *.iss.log
+languagebarrier/*.mpk.bak
