@@ -303,6 +303,10 @@ begin
       DeleteFile(Dst);             // fichier ajoute par le patch FR : on l'enleve
   end;
 
+  // Dossier cree par le patch FR pour le Rich Presence : vide une fois l'exe
+  // supprime par la boucle ci-dessus, il ne doit pas rester derriere.
+  RemoveDir(AppDir + 'languagebarrier\rpc');
+
   DelTree(BackupRoot, True, True, True);
   // Le dossier meta ne part que s'il est vide : unins000.exe s'y auto-supprime apres coup.
   RemoveDir(AppDir + '{#MetaSubDir}');
