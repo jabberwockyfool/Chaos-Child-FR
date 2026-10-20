@@ -20,6 +20,8 @@ Ce projet propose une traduction française de **CHAOS;CHILD**, construite à pa
 | Menus/CG                 | 🔄 40/56 (88,86 %) |
 | [Sous-titres des vidéos](/languagebarrier/subs) | ✅  |   
 
+La sortie de la V1 est prévu pour fin 2026 (à noter que la version sans CGs traduite est déja disponible)
+
 ## Crédits
 
 - **Committee of Zero** pour le patch de base et leur travail sur CHAOS;CHILD.
