@@ -17,7 +17,7 @@ Ce projet propose une traduction française de **CHAOS;CHILD**, construite à pa
 | Relecture | 🔄 |
 | Script système   |      ✅      |
 | [Police (accents FR)](/languagebarrier/subs/fonts)   |      ✅      |
-| [Menus/CG]  | 🔄 172/239 (72 %) |
+| Menus/CG | 🔄 172/239 (72 %) |
 | [Sous-titres des vidéos](/languagebarrier/subs) | ✅  |   
 
 La sortie de la V1 est prévu pour fin 2026 (à noter que la version sans CGs traduite est déja disponible)
