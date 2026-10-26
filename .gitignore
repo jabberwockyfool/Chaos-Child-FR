@@ -4,5 +4,7 @@ installer/manifest.txt
 *.iss.log
 languagebarrier/*.mpk.bak
 
-# caches Python des outils
 __pycache__/
+
+cg/INVENTAIRE.md
+cg/outils/
