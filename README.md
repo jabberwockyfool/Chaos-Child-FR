@@ -17,6 +17,7 @@ Ce projet propose une traduction française de **CHAOS;CHILD**, construite à pa
 | Relecture | 🔄 |
 | Script système   |      ✅      |
 | [Police (accents FR)](/languagebarrier/subs/fonts)   |      ✅      |
+<<<<<<< HEAD
 | [Menus/CG](/cg/INVENTAIRE.md)                 | 🔄 172/239 (72 %) |
 | [Sous-titres des vidéos](/languagebarrier/subs) | ✅  |   
 
@@ -26,6 +27,12 @@ Deux documents font autorité et sont à lire avant de toucher au texte :
 [Dictionnaire.md](Dictionnaire.md) pour les termes, et
 [Traduction.md](Traduction.md) pour le style — post-édition complète, français
 littéraire, registre dicté par le personnage.
+=======
+| Menus/CG                 | 🔄 40/56 (88,86 %) |
+| [Sous-titres des vidéos](/languagebarrier/subs) | ✅  |   
+
+La sortie de la V1 est prévu pour fin 2026 (à noter que la version sans CGs traduite est déja disponible)
+>>>>>>> 03178deded4d3ad363a92118f705cea9a5bab992
 
 ## Crédits
 
