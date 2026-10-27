@@ -20,7 +20,7 @@ Ce projet propose une traduction française de **CHAOS;CHILD**, construite à pa
 | Menus/CG  | ✅ 223/239 (les cartes de Shibuya restent en anglais) |
 | [Sous-titres des vidéos](/languagebarrier/subs) | ✅  |   
 
-La sortie de la V1 est prévue pour fin 2026.
+La sortie de la V1 est prévue pour fin 2026 (à noter que la version sans CGs traduite est déjà disponible).
 
 ## Pour traduire
 
@@ -28,6 +28,7 @@ Deux documents font autorité et sont à lire avant de toucher au texte :
 [Dictionnaire.md](Dictionnaire.md) pour les termes, et
 [Traduction.md](Traduction.md) pour le style — post-édition complète, français
 littéraire, registre dicté par le personnage.
+>>>>>>> 014d08d279e6d83aa3d0999a4f188d4a25a3cf66
 
 ## Crédits
 
