@@ -25,6 +25,8 @@ $Payload = @(
     'languagebarrier\c0data.mpk',
     'languagebarrier\enscript.mpk',
     'languagebarrier\subs',
+    # les cartons de chapitre en francais : fmv.subs pointe vers subs\cc_ttl*_fr.ass
+    'languagebarrier\patchdef.json',
     # Rich Presence Discord : l'exe, plus le boot.bat qui le lance avec le jeu.
     # Le boot.bat d'origine est sauvegarde puis restaure par l'installeur, comme
     # tout fichier du manifeste.
