@@ -17,7 +17,7 @@ Ce projet propose une traduction française de **CHAOS;CHILD**, construite à pa
 | Relecture | ✅ |
 | Script système   |      ✅      |
 | [Police (accents FR)](/languagebarrier/subs/fonts)   |      ✅      |
-| Menus/CG  | ✅ 223/239 (les cartes de Shibuya restent en anglais) |
+| Menus/CG  | ✅ 239/239 |
 | [Sous-titres des vidéos](/languagebarrier/subs) | ✅  |   
 
 La sortie de la V1 est prévue pour fin 2026 (à noter que la version sans CGs traduite est déjà disponible).
@@ -34,7 +34,7 @@ littéraire, registre dicté par le personnage.
 
 - **Committee of Zero** pour le patch de base et leur travail sur CHAOS;CHILD.
 - **MAGES Inc.** et ses employés pour le visual novel original.
-- Traduction : **Medpapaya**, **Mekki**, **beatripping** & **Dogan**
+- Traduction : **Medpapaya**, **Mekki**, **beatripping** & **len**
 - Les testeurs nous faisant part de leur expérience avec le patch.
 
 ## Licence & Avertissement légal
