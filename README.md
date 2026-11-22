@@ -20,7 +20,7 @@ Ce projet propose une traduction française de **CHAOS;CHILD**, construite à pa
 | Menus/CG  | ✅ 239/239 |
 | [Sous-titres des vidéos](/languagebarrier/subs) | ✅  |   
 
-Une version 1.1 est disponible !
+Une version [1.1](https://github.com/jabberwockyfool/Chaos-Child-FR/releases/tag/V1.1) est disponible !
 
 ## Crédits
 
