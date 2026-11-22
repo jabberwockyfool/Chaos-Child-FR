@@ -20,7 +20,7 @@ Ce projet propose une traduction française de **CHAOS;CHILD**, construite à pa
 | Menus/CG  | ✅ 239/239 |
 | [Sous-titres des vidéos](/languagebarrier/subs) | ✅  |   
 
-La sortie de la V1 est prévue pour fin 2026 (à noter que la version sans CGs traduite est déjà disponible).
+Une version 1.1 est disponible !
 
 ## Crédits
 
